@@ -1,4 +1,4 @@
-[
+let paises = [
   {
     "Pais": "Andorra",
     "Capital": "Andorra la Vella",

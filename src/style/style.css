@@ -1,0 +1,85 @@
+:root {
+  --bg-color: #73a2df;
+  --white: #fdfdfd;
+  --red: #e63535;
+  --bg-sec-color: #7daeee;
+}
+
+body{
+  text-align: center;
+  font-size: 16px;
+  background-color: var(--bg-color);
+  padding: 0;
+  margin: .5em;
+}
+
+.header{
+  display: grid;
+  grid-template-columns: repeat(3, 33.3%);
+  text-align: center;
+}
+
+.back{
+  display: flex;
+  color: var(--white);
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+.title{
+  border-radius: 2em;
+  color: var(--red);
+  font-family: 'Pacifico', cursive;
+  font-family: 'Sedgwick Ave', cursive;
+  font-weight: bold;
+  margin: 0;
+}
+
+.question{
+  font-weight: bold;
+  color: var(--white);
+  margin: 1em 0;
+}
+
+.game-area{
+  width: 75%;
+  margin: 0 10%;
+  background-color: var(--bg-sec-color);
+  border-radius: 2em;
+  padding: 1em;
+}
+
+img{
+  width: 100%;
+  border-radius: 1.5em;
+  border: 2px solid #000000;
+}
+
+.answers{
+  display: grid;
+  justify-content: flex-start;
+}
+
+.correct-answer{
+  display: flex;
+  margin-top: .5em;
+  text-decoration: none;
+  background-color: var(--bg-color);
+  border: 1px solid var(--white);
+}
+
+.letter{
+  margin-right: .3em;
+  font-weight: bold;
+  color: var(--red);
+}
+
+.scoreboard{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 3em;
+}
+
+.score, .flags{
+  font-weight: bold;
+}

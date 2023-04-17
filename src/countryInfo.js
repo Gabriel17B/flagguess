@@ -24,12 +24,6 @@
     "Continent": "North America"
   },
   {
-    "Pais": "Anguilla",
-    "Capital": "The Valley",
-    "Codigo": "AI",
-    "Continent": "North America"
-  },
-  {
     "Pais": "Albania",
     "Capital": "Tirana",
     "Codigo": "AL",
@@ -48,22 +42,10 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Antarctica",
-    "Capital": "",
-    "Codigo": "AQ",
-    "Continent": "Antarctica"
-  },
-  {
     "Pais": "Argentina",
     "Capital": "Buenos Aires",
     "Codigo": "AR",
     "Continent": "South America"
-  },
-  {
-    "Pais": "American Samoa",
-    "Capital": "Pago Pago",
-    "Codigo": "AS",
-    "Continent": "Oceania"
   },
   {
     "Pais": "Austria",
@@ -76,18 +58,6 @@
     "Capital": "Canberra",
     "Codigo": "AU",
     "Continent": "Oceania"
-  },
-  {
-    "Pais": "Aruba",
-    "Capital": "Oranjestad",
-    "Codigo": "AW",
-    "Continent": "North America"
-  },
-  {
-    "Pais": "Åland",
-    "Capital": "Mariehamn",
-    "Codigo": "AX",
-    "Continent": "Europe"
   },
   {
     "Pais": "Azerbaijan",
@@ -150,12 +120,6 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Saint Barthélemy",
-    "Capital": "Gustavia",
-    "Codigo": "BL",
-    "Continent": "North America"
-  },
-  {
     "Pais": "Bermuda",
     "Capital": "Hamilton",
     "Codigo": "BM",
@@ -174,12 +138,6 @@
     "Continent": "South America"
   },
   {
-    "Pais": "Bonaire, Sint Eustatius, and Saba",
-    "Capital": "Kralendijk",
-    "Codigo": "BQ",
-    "Continent": "North America"
-  },
-  {
     "Pais": "Brazil",
     "Capital": "Brasília",
     "Codigo": "BR",
@@ -196,12 +154,6 @@
     "Capital": "Thimphu",
     "Codigo": "BT",
     "Continent": "Asia"
-  },
-  {
-    "Pais": "Bouvet Island",
-    "Capital": "",
-    "Codigo": "BV",
-    "Continent": "Antarctica"
   },
   {
     "Pais": "Botswana",
@@ -264,12 +216,6 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Cook Islands",
-    "Capital": "Avarua",
-    "Codigo": "CK",
-    "Continent": "Oceania"
-  },
-  {
     "Pais": "Chile",
     "Capital": "Santiago",
     "Codigo": "CL",
@@ -316,12 +262,6 @@
     "Capital": "Willemstad",
     "Codigo": "CW",
     "Continent": "North America"
-  },
-  {
-    "Pais": "Christmas Island",
-    "Capital": "Flying Fish Cove",
-    "Codigo": "CX",
-    "Continent": "Oceania"
   },
   {
     "Pais": "Cyprus",
@@ -387,12 +327,6 @@
     "Pais": "Egypt",
     "Capital": "Cairo",
     "Codigo": "EG",
-    "Continent": "Africa"
-  },
-  {
-    "Pais": "Western Sahara",
-    "Capital": "",
-    "Codigo": "EH",
     "Continent": "Africa"
   },
   {
@@ -474,34 +408,10 @@
     "Continent": "Asia"
   },
   {
-    "Pais": "French Guiana",
-    "Capital": "Cayenne",
-    "Codigo": "GF",
-    "Continent": "South America"
-  },
-  {
-    "Pais": "Guernsey",
-    "Capital": "St Peter Port",
-    "Codigo": "GG",
-    "Continent": "Europe"
-  },
-  {
     "Pais": "Ghana",
     "Capital": "Accra",
     "Codigo": "GH",
     "Continent": "Africa"
-  },
-  {
-    "Pais": "Gibraltar",
-    "Capital": "Gibraltar",
-    "Codigo": "GI",
-    "Continent": "Europe"
-  },
-  {
-    "Pais": "Greenland",
-    "Capital": "Nuuk",
-    "Codigo": "GL",
-    "Continent": "North America"
   },
   {
     "Pais": "The Gambia",
@@ -516,12 +426,6 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Guadeloupe",
-    "Capital": "Basse-Terre",
-    "Codigo": "GP",
-    "Continent": "North America"
-  },
-  {
     "Pais": "Equatorial Guinea",
     "Capital": "Malabo",
     "Codigo": "GQ",
@@ -534,22 +438,10 @@
     "Continent": "Europe"
   },
   {
-    "Pais": "South Georgia and South Sandwich Islands",
-    "Capital": "Grytviken",
-    "Codigo": "GS",
-    "Continent": "Antarctica"
-  },
-  {
     "Pais": "Guatemala",
     "Capital": "Guatemala City",
     "Codigo": "GT",
     "Continent": "North America"
-  },
-  {
-    "Pais": "Guam",
-    "Capital": "Hagåtña",
-    "Codigo": "GU",
-    "Continent": "Oceania"
   },
   {
     "Pais": "Guinea-Bissau",
@@ -562,18 +454,6 @@
     "Capital": "Georgetown",
     "Codigo": "GY",
     "Continent": "South America"
-  },
-  {
-    "Pais": "Hong Kong",
-    "Capital": "Hong Kong",
-    "Codigo": "HK",
-    "Continent": "Asia"
-  },
-  {
-    "Pais": "Heard and McDonald Islands",
-    "Capital": "",
-    "Codigo": "HM",
-    "Continent": "Antarctica"
   },
   {
     "Pais": "Honduras",
@@ -618,21 +498,9 @@
     "Continent": "Asia"
   },
   {
-    "Pais": "Isle of Man",
-    "Capital": "Douglas",
-    "Codigo": "IM",
-    "Continent": "Europe"
-  },
-  {
     "Pais": "India",
     "Capital": "New Delhi",
     "Codigo": "IN",
-    "Continent": "Asia"
-  },
-  {
-    "Pais": "British Indian Ocean Territory",
-    "Capital": "",
-    "Codigo": "IO",
     "Continent": "Asia"
   },
   {
@@ -657,12 +525,6 @@
     "Pais": "Italy",
     "Capital": "Rome",
     "Codigo": "IT",
-    "Continent": "Europe"
-  },
-  {
-    "Pais": "Jersey",
-    "Capital": "Saint Helier",
-    "Codigo": "JE",
     "Continent": "Europe"
   },
   {
@@ -736,12 +598,6 @@
     "Capital": "Kuwait City",
     "Codigo": "KW",
     "Continent": "Asia"
-  },
-  {
-    "Pais": "Cayman Islands",
-    "Capital": "George Town",
-    "Codigo": "KY",
-    "Continent": "North America"
   },
   {
     "Pais": "Kazakhstan",
@@ -840,12 +696,6 @@
     "Continent": "Europe"
   },
   {
-    "Pais": "Saint Martin",
-    "Capital": "Marigot",
-    "Codigo": "MF",
-    "Continent": "North America"
-  },
-  {
     "Pais": "Madagascar",
     "Capital": "Antananarivo",
     "Codigo": "MG",
@@ -888,28 +738,10 @@
     "Continent": "Asia"
   },
   {
-    "Pais": "Northern Mariana Islands",
-    "Capital": "Saipan",
-    "Codigo": "MP",
-    "Continent": "Oceania"
-  },
-  {
-    "Pais": "Martinique",
-    "Capital": "Fort-de-France",
-    "Codigo": "MQ",
-    "Continent": "North America"
-  },
-  {
     "Pais": "Mauritania",
     "Capital": "Nouakchott",
     "Codigo": "MR",
     "Continent": "Africa"
-  },
-  {
-    "Pais": "Montserrat",
-    "Capital": "Plymouth",
-    "Codigo": "MS",
-    "Continent": "North America"
   },
   {
     "Pais": "Malta",
@@ -970,12 +802,6 @@
     "Capital": "Niamey",
     "Codigo": "NE",
     "Continent": "Africa"
-  },
-  {
-    "Pais": "Norfolk Island",
-    "Capital": "Kingston",
-    "Codigo": "NF",
-    "Continent": "Oceania"
   },
   {
     "Pais": "Nigeria",
@@ -1044,12 +870,6 @@
     "Continent": "South America"
   },
   {
-    "Pais": "French Polynesia",
-    "Capital": "Papeete",
-    "Codigo": "PF",
-    "Continent": "Oceania"
-  },
-  {
     "Pais": "Papua New Guinea",
     "Capital": "Port Moresby",
     "Codigo": "PG",
@@ -1072,18 +892,6 @@
     "Capital": "Warsaw",
     "Codigo": "PL",
     "Continent": "Europe"
-  },
-  {
-    "Pais": "Saint Pierre and Miquelon",
-    "Capital": "Saint-Pierre",
-    "Codigo": "PM",
-    "Continent": "North America"
-  },
-  {
-    "Pais": "Pitcairn Islands",
-    "Capital": "Adamstown",
-    "Codigo": "PN",
-    "Continent": "Oceania"
   },
   {
     "Pais": "Puerto Rico",
@@ -1120,12 +928,6 @@
     "Capital": "Doha",
     "Codigo": "QA",
     "Continent": "Asia"
-  },
-  {
-    "Pais": "Réunion",
-    "Capital": "Saint-Denis",
-    "Codigo": "RE",
-    "Continent": "Africa"
   },
   {
     "Pais": "Romania",
@@ -1188,21 +990,9 @@
     "Continent": "Asia"
   },
   {
-    "Pais": "Saint Helena",
-    "Capital": "Jamestown",
-    "Codigo": "SH",
-    "Continent": "Africa"
-  },
-  {
     "Pais": "Slovenia",
     "Capital": "Ljubljana",
     "Codigo": "SI",
-    "Continent": "Europe"
-  },
-  {
-    "Pais": "Svalbard and Jan Mayen",
-    "Capital": "Longyearbyen",
-    "Codigo": "SJ",
     "Continent": "Europe"
   },
   {
@@ -1260,12 +1050,6 @@
     "Continent": "North America"
   },
   {
-    "Pais": "Sint Maarten",
-    "Capital": "Philipsburg",
-    "Codigo": "SX",
-    "Continent": "North America"
-  },
-  {
     "Pais": "Syria",
     "Capital": "Damascus",
     "Codigo": "SY",
@@ -1278,22 +1062,10 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Turks and Caicos Islands",
-    "Capital": "Cockburn Town",
-    "Codigo": "TC",
-    "Continent": "North America"
-  },
-  {
     "Pais": "Chad",
     "Capital": "N'Djamena",
     "Codigo": "TD",
     "Continent": "Africa"
-  },
-  {
-    "Pais": "French Southern Territories",
-    "Capital": "Port-aux-Français",
-    "Codigo": "TF",
-    "Continent": "Antarctica"
   },
   {
     "Pais": "Togo",
@@ -1312,12 +1084,6 @@
     "Capital": "Dushanbe",
     "Codigo": "TJ",
     "Continent": "Asia"
-  },
-  {
-    "Pais": "Tokelau",
-    "Capital": "",
-    "Codigo": "TK",
-    "Continent": "Oceania"
   },
   {
     "Pais": "Timor-Leste",
@@ -1386,12 +1152,6 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "U.S. Outlying Islands",
-    "Capital": "",
-    "Codigo": "UM",
-    "Continent": "Oceania"
-  },
-  {
     "Pais": "United States",
     "Capital": "Washington",
     "Codigo": "US",
@@ -1428,18 +1188,6 @@
     "Continent": "South America"
   },
   {
-    "Pais": "British Virgin Islands",
-    "Capital": "Road Town",
-    "Codigo": "VG",
-    "Continent": "North America"
-  },
-  {
-    "Pais": "U.S. Virgin Islands",
-    "Capital": "Charlotte Amalie",
-    "Codigo": "VI",
-    "Continent": "North America"
-  },
-  {
     "Pais": "Vietnam",
     "Capital": "Hanoi",
     "Codigo": "VN",
@@ -1449,12 +1197,6 @@
     "Pais": "Vanuatu",
     "Capital": "Port Vila",
     "Codigo": "VU",
-    "Continent": "Oceania"
-  },
-  {
-    "Pais": "Wallis and Futuna",
-    "Capital": "Mata-Utu",
-    "Codigo": "WF",
     "Continent": "Oceania"
   },
   {
@@ -1474,12 +1216,6 @@
     "Capital": "Sanaa",
     "Codigo": "YE",
     "Continent": "Asia"
-  },
-  {
-    "Pais": "Mayotte",
-    "Capital": "Mamoudzou",
-    "Codigo": "YT",
-    "Continent": "Africa"
   },
   {
     "Pais": "South Africa",

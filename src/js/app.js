@@ -4,33 +4,32 @@ $(document).ready( () => {
         console.log(e);
     })
     
-    const espera = () =>{
-        return new Promise(resolve => {
-            $.ajax({
-                type: "get",
-                url: "src/js/countryInfo.json",
-                data: "",
-                dataType: "",
-                success: function (response) {
-                    resolve(response)
-                },
-                error: function(e){
-                    console.log(e);
-                }
-            
-            });
-        })
+    let a = $.ajax({
+        type: "get",
+        url: "src/js/countryInfo.json",
+        data: "",
+        dataType: "",
+        success: function (response) {
+            carregar(response)
+        },
+        error: function(e){
+            console.log(e);
+        }
+    
+    });
+
+    function carregar(paisesJson) {
+        let paises =  paisesJson;
+        console.log(paises);
     }
-    
-    const out = async ()=>{
-        const x = await espera()
-        return x;
-    }
-  
-    resolve(out())
 
-    
-
-
-    
+        
 })
+    
+    
+
+    
+
+
+    
+

@@ -3,11 +3,13 @@
   --white: #fdfdfd;
   --red: #e63535;
   --bg-sec-color: #7daeee;
+  --font: 'Alumni Sans', sans-serif;
 }
 
 body{
   text-align: center;
   font-size: 16px;
+  font-family: var(--font);
   background-color: var(--bg-color);
   padding: 0;
   margin: .5em;
@@ -29,21 +31,22 @@ body{
 .title{
   border-radius: 2em;
   color: var(--red);
-  font-family: 'Pacifico', cursive;
   font-family: 'Sedgwick Ave', cursive;
   font-weight: bold;
   margin: 0;
 }
 
 .question{
+  font-size: 2em;
+  font-family: var(--font);
   font-weight: bold;
   color: var(--white);
-  margin: 1em 0;
+  margin: .5em 0;
 }
 
 .game-area{
-  width: 75%;
-  margin: 0 10%;
+  width: 70%;
+  margin: 0 auto;
   background-color: var(--bg-sec-color);
   border-radius: 2em;
   padding: 1em;
@@ -57,29 +60,58 @@ img{
 
 .answers{
   display: grid;
-  justify-content: flex-start;
+  grid-template-rows: repeat(4, 25%);
 }
 
-.correct-answer{
+.alternative{
+  font-size: 1.3em;
+  font-weight: 500;
   display: flex;
+  align-items: center;
   margin-top: .5em;
   text-decoration: none;
   background-color: var(--bg-color);
-  border: 1px solid var(--white);
+  border: 2px solid var(--white);
 }
 
 .letter{
+  font-size: 1.5em;
   margin-right: .3em;
-  font-weight: bold;
+  font-weight: bolder;
   color: var(--red);
+}
+
+.question-answer{
+  font-family: var(--font);
 }
 
 .scoreboard{
   display: flex;
+  margin: 3em 3em 0 3em;
   justify-content: space-between;
-  margin: 0 3em;
 }
 
-.score, .flags{
-  font-weight: bold;
+.counter{
+  width: 35%;
+  background-color: rgba(0, 0, 0, .5);
+  padding: .5em;
+  border-radius: 1em;
+}
+
+.number{
+  display: inline-block;
+  padding: .3em .5em;
+  background-color: rgb(216, 108, 20);
+  border-radius: 8em;
+  margin: 0;
+}
+
+.type {
+  margin: .5em 0;
+}
+
+.number, .type{
+  color: var(--white);
+  font-size: 1em;
+  font-weight: 700;
 }

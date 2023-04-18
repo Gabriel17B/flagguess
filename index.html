@@ -9,7 +9,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Sedgwick+Ave&display=swap" rel="stylesheet">
-  <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>  <link rel="stylesheet" href="src/style/style.css">
+  <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E="
+    crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans:ital,wght@0,400;0,500;0,700;1,500&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="src/style/style.css">
   <script src="src/js/app.js"></script>
 </head>
 
@@ -22,22 +28,22 @@
   <section class="game-area">
     <img src="src/img/br-flag.jpeg" id="imagem" alt="bandeira do país" class="flag">
     <div class="answers">
-      <button class="correct-answer" id="alt-A">
+      <button class="alternative" id="alt-A">
         <span class="letter">A</span>
         <span class="question-answer">Estados Unidos</span>
       </button>
 
-      <button class="correct-answer" id="alt-B">
+      <button class="alternative" id="alt-B">
         <span class="letter">B</span>
         <span class="question-answer">Brasil</span>
       </button>
 
-      <button class="correct-answer" id="alt-C">
+      <button class="alternative" id="alt-C">
         <span class="letter">C</span>
         <span class="question-answer">Andorra</span>
       </button>
 
-      <button class="correct-answer" id="alt-D">
+      <button class="alternative" id="alt-D">
         <span class="letter">D</span>
         <span class="question-answer">São Cristivão e Neves</span>
       </button>
@@ -45,10 +51,16 @@
     </div>
   </section>
 
-  <div class="scoreboard">
-    <p class="flags">BANDEIRAS 11</p>
-    <p class="score" id="score">SCORE 9</p>
-  </div>
+  <section class="scoreboard">
+    <div class="counter">
+      <p class="number">12</p>
+      <p class="type">BANDEIRAS</p>
+    </div>
+    <div class="counter">
+      <p class="number">09</p>
+      <p class="type">ACERTOS</p>
+    </div>
+  </section>
 
 </body>
 

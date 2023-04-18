@@ -1,7 +1,7 @@
 
 $(document).ready( () => {
-    let acertos = 0;
-    let bandeiras = 0;
+    let acertos = 2;
+    let bandeiras = 3;
     
     let paises = $.ajax({
         type: "get",
@@ -36,6 +36,7 @@ $(document).ready( () => {
         }
 
         let correct = Math.floor(Math.random()*4)
+        console.log("corrto",correct);
         console.log(opcoes[correct]);
         console.log(opcoes);
         const actualQuestion = opcoes[correct]
@@ -46,31 +47,22 @@ $(document).ready( () => {
         $("#alt-C .question-answer").html(opcoes[2].Pais)
         $("#alt-D .question-answer").html(opcoes[3].Pais)
 
-        $("#alt-A").on("click",(e)=>{
-            if(correct = 0){
-                atualizarValues()
-            }
-        })
-        $("#alt-B").on("click",(e)=>{
-
-        })
-        $("#alt-C").on("click",(e)=>{
-
-        })
-        $("#alt-D").on("click",(e)=>{
-
-        })
 
         //alterar 
         let codigo = actualQuestion.Codigo.toLowerCase()
         let url = "http://www.geonames.org/flags/x/"+codigo+".gif"
         console.log(url);
         $('#Bandeira').attr("src", url);
+        return correct
      }
+
+
      
-     function atualizarValues(acer,total) { 
-            $("#acertos").html(acertos + acer)
-            $("#bandeiras").html(bandeiras + total)
+     function atualizarValues() { 
+            $("#acertos").html(acertos + 1)
+            $("#bandeiras").html(bandeiras + 1)
+
+            // createQuestion(paises.responseJSON);
       }
 })
     

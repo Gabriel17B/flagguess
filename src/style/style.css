@@ -115,3 +115,12 @@ img{
   font-size: 1em;
   font-weight: 700;
 }
+
+/* minhas clases de teste ASS: MATEUS */
+
+.correct{
+  background-color: green !important;
+}
+.error{
+  background-color: red !important;
+}

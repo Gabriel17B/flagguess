@@ -20,7 +20,7 @@
 
 
     let correct2 = 0
-
+    let indicesQjaForam = []
     function createQuestion(question) {
         setTimeout(()=>{
             let opcoes = []
@@ -30,24 +30,28 @@
             $(".answers button").removeClass("correct");
             $(".answers button").removeClass("error");
             let i = 0
-
             while (i < 4) {
                 let ramdom = Math.floor(Math.random() * question.length)
                 if (!indices.includes(ramdom)) {
-                    console.log(ramdom);
+                    // console.log(ramdom);
                     opcoes.push(question[ramdom]);
-                    indices.push(ramdom)
-                    i++
+                    if(!indicesQjaForam.includes(question[ramdom])){
+                        indices.push(ramdom)
+                        i++
+                    }
                 }
-    
+                
             }
-    
+            
+            
             let correct = Math.floor(Math.random() * 4)
-            console.log("corrto", correct);
-            console.log(opcoes[correct]);
-            console.log(opcoes);
+            // console.log("corrto", correct);
+            // console.log(opcoes[correct]);
+            // console.log(opcoes);
             const actualQuestion = opcoes[correct]
-            console.log(indices);
+            indicesQjaForam.push(opcoes[correct])
+            console.log(indicesQjaForam);
+            // console.log(indices);
             // botoes
             $("#alt-A .question-answer").html(opcoes[0].Pais)
             $("#alt-B .question-answer").html(opcoes[1].Pais)
@@ -58,7 +62,7 @@
             //alterar 
             let codigo = actualQuestion.Codigo.toLowerCase()
             let url = "http://www.geonames.org/flags/x/" + codigo + ".gif"
-            console.log(url);
+            // console.log(url);
             $('#Bandeira').attr("src", url);
             correct2 =  correct
         },1500)
@@ -67,9 +71,12 @@
 
     function placarFinal(){
         $(".game-area").load("src/views/placar_final.html")
-        let porcent = ((acertos/ bandeirasT) * 100).toFixed(2)
-        
-        $("#porcentagemAcertos").html(porcent)
+        let porcent = ((acertos / bandeirasT) * 100).toFixed(2)
+        console.log(porcent);
+        setTimeout(()=>{
+            $("#porcentagemAcertos").html(porcent + "%")
+
+        },50)
     }
 
 

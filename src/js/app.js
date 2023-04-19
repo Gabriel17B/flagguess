@@ -1,7 +1,8 @@
 
 
     let acertos = 0;
-    let bandeiras = 50;
+    let bandeiras = 10;
+    let bandeirasT = bandeiras
 
     let paises = $.ajax({
         type: "get",
@@ -64,6 +65,12 @@
  
     }
 
+    function placarFinal(){
+        $(".game-area").load("src/views/placar_final.html")
+        let porcent = ((acertos/ bandeirasT) * 100).toFixed(2)
+        
+        $("#porcentagemAcertos").html(porcent)
+    }
 
 
     function atualizarValues(ac) {
@@ -71,6 +78,10 @@
         bandeiras -= 1
         $("#acertos").html(acertos)
         $("#bandeiras").html(bandeiras)
+        if(bandeiras <= 0){
+            placarFinal()
+            console.log("acabou");
+        }
 
         // createQuestion(paises.responseJSON);
     }

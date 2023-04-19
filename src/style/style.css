@@ -124,3 +124,17 @@ img{
 .error{
   background-color: red !important;
 }
+.placar{
+  background-color: #fdfdfd;
+  padding: 20px;
+  border-radius: 20px;
+
+}
+#porcentagemAcertos{
+  background-color: var(--bg-sec-color);
+  padding: 5px;
+  border-radius: 3px;
+  font-weight: bold;
+  color: var(--red);
+  font-size: 10vw;
+}

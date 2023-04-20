@@ -5,6 +5,28 @@ let bandeiras = 10;
 let bandeirasT = bandeiras
 let paused  = false
 
+var urlAtual = window.location.href;
+var urlClass = new URL(urlAtual);
+var gamemode = urlClass.searchParams.get("gamemode");
+console.log(gamemode); // Algum nome que está como parâmetro na URL
+
+$(document).ready(function () {
+    if(gamemode === "questionary"){
+        $(".progress").remove()
+        $("#spanTempo").remove()
+        let tempo = 90
+        setInterval(() => {
+            tempo -= 1
+            if (tempo == 0) {
+                placarFinal("time")
+            }
+            console.log(tempo);
+            
+        }, 1000);
+
+    }
+});
+
 let paises = $.ajax({
     type: "get",
     url: "src/js/countryInfo.json",
@@ -18,6 +40,7 @@ let paises = $.ajax({
     }
 
 });
+
 
 
 let correct2 = 0
@@ -36,10 +59,10 @@ function createQuestion(question) {
             if (!indices.includes(ramdom)) {
                 // console.log(ramdom);
                 opcoes.push(question[ramdom]);
-                if (!indicesQjaForam.includes(question[ramdom])) {
+                // if (!indicesQjaForam.includes(question[ramdom])) {
                     indices.push(ramdom)
                     i++
-                }
+                // }
             }
 
         }
@@ -92,7 +115,7 @@ function atualizarValues(ac) {
         console.log("acabou");
     }
 
-    // createQuestion(paises.responseJSON);
+   
 }
 
 function resposta(ind, id) {
@@ -115,6 +138,10 @@ function resposta(ind, id) {
         }
 
     }
+}
+
+function GameMode(game){
+
 }
 
 

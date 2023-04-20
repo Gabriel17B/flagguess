@@ -124,20 +124,15 @@ img{
 .error{
   background-color: red !important;
 }
-.placar{
-  background-color: #fdfdfd;
-  padding: 20px;
-  border-radius: 20px;
 
-}
-#porcentagemAcertos{
+/* #porcentagemAcertos{
   background-color: var(--bg-sec-color);
   padding: 5px;
   border-radius: 3px;
   font-weight: bold;
   color: var(--red);
   font-size: 10vw;
-}
+} */
 
 /* animacao */
 
@@ -162,5 +157,54 @@ img{
   background-image: linear-gradient(315deg, #fff 0%, #7ee8fa 74%);
   height: 12px;
   width: 20%;
+}
 
+/* Banner do Placar */
+
+.placar{
+  width: 50%;
+  margin: 25%;
+  padding: 5em;
+  text-align: center;
+  background-color: var(--bg-sec-color);
+  border: 2px dashed #000000;
+  border-radius: 1em;
+}
+
+.congratulations{
+  font-size: 2em;
+  color: var(--red);
+  font-family: 'Sedgwick Ave', cursive;
+  font-weight: bold;
+}
+
+.placar-prhase{
+  font-family: var(--font);
+  font-size: 1.5em;
+  color: var(--white);
+}
+
+.country-numbers-div{
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  justify-content: center;
+  margin: 2em 0;
+}
+
+.country-numbers, .country{
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: .5em;
+  margin: 0;
+  color: #035811;
+}
+
+.placar-button {
+  font-size: 1.5em;
+  background-color: #2066c2;
+  text-decoration: none;
+  color: var(--white);
+  padding: .5em .8em;
+  border: 2px solid #154585;
+  border-radius: .5em;
 }

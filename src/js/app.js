@@ -1,9 +1,9 @@
 
 
 let acertos = 0;
-let bandeiras = 10;
-let bandeirasT = bandeiras
-let paused  = false
+let bandeiras = 0;
+let paused = false;
+let bandeirasT = 0
 
 var urlAtual = window.location.href;
 var urlClass = new URL(urlAtual);
@@ -11,21 +11,41 @@ var gamemode = urlClass.searchParams.get("gamemode");
 console.log(gamemode); // Algum nome que está como parâmetro na URL
 
 $(document).ready(function () {
-    if(gamemode === "questionary"){
+    if (gamemode === "questionary") {
         $(".progress").remove()
         $("#spanTempo").remove()
+        bandeiras = urlClass.searchParams.get("band");
+        bandeirasT = bandeiras
+        $("#bandeiras").html(bandeiras)
+        console.log(bandeiras);
+    } else if (gamemode === "time") {
+        $("#bandeirasCounter").remove()
         let tempo = 90
+        let tempoFinal = tempo
         setInterval(() => {
             tempo -= 1
+            if(tempo > 0){
+                var maior = (parseFloat(tempo) > parseFloat(tempoFinal)? tempo : tempoFinal);
+                var menor = (parseFloat(tempo) < parseFloat(tempoFinal)? tempo : tempoFinal);
+            
+                var result = (menor/maior)*100;
+                result = Math.floor(result)
+                $(".progress-value").css("width", result+"%");
+                console.log("result",result+"%");
+            }
             if (tempo == 0) {
-                placarFinal("time")
+                placarFinal(gamemode)
             }
             console.log(tempo);
-            
-        }, 1000);
 
+        }, 1000);
+        
     }
+
+
 });
+
+
 
 let paises = $.ajax({
     type: "get",
@@ -59,10 +79,10 @@ function createQuestion(question) {
             if (!indices.includes(ramdom)) {
                 // console.log(ramdom);
                 opcoes.push(question[ramdom]);
-                // if (!indicesQjaForam.includes(question[ramdom])) {
+                if (!indicesQjaForam.includes(question[ramdom])) {
                     indices.push(ramdom)
                     i++
-                // }
+                }
             }
 
         }
@@ -94,14 +114,25 @@ function createQuestion(question) {
 
 }
 
-function placarFinal() {
-    $(".game-area").load("src/views/placar_final.html")
-    let porcent = ((acertos / bandeirasT) * 100).toFixed(2)
-    console.log(porcent);
-    setTimeout(() => {
-        $("#porcentagemAcertos").html(porcent + "%")
+function placarFinal(gameM) {
+    if(gameM == "questionary"){
+        $(".game-area").load("src/views/placar_final.html")
+        let parse = bandeirasT
+        console.log(parse);
+        let porcent = ((acertos / parse) * 100).toFixed(2)
+        console.log(porcent);
+        setTimeout(() => {
+            $("#porcentagemAcertos").html(porcent + "%")
+    
+        }, 50)
+    }else if(gameM == "time"){
+        $(".game-area").load("src/views/placar_final.html")
+        setTimeout(() => {
+            $("#porcentagemAcertos").html(acertos)
+    
+        }, 50)
+    }
 
-    }, 50)
 }
 
 
@@ -110,12 +141,8 @@ function atualizarValues(ac) {
     bandeiras -= 1
     $("#acertos").html(acertos)
     $("#bandeiras").html(bandeiras)
-    if (bandeiras <= 0) {
-        placarFinal()
-        console.log("acabou");
-    }
-
-   
+    
+    GameMode(gamemode)
 }
 
 function resposta(ind, id) {
@@ -128,7 +155,7 @@ function resposta(ind, id) {
         atualizarValues(1)
     } else {
         console.log("errado");
-        if(paused  === false){
+        if (paused === false) {
             $("#" + id).addClass("error");
             createQuestion(paises.responseJSON);
             let btns = $(".answers button")
@@ -140,8 +167,15 @@ function resposta(ind, id) {
     }
 }
 
-function GameMode(game){
+function GameMode(game) {
+    if(game == "questionary"){
+        if(bandeiras <= 0){
+            placarFinal(game)
+        }
 
+    }else if(game == "time"){
+
+    }
 }
 
 

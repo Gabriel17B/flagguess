@@ -156,7 +156,8 @@ img{
   background-color: #fff;
   background-image: linear-gradient(315deg, #fff 0%, #7ee8fa 74%);
   height: 12px;
-  width: 20%;
+  width: 10%;
+  transition: all 1s;
 }
 
 /* Banner do Placar */

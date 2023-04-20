@@ -163,9 +163,7 @@ img{
 /* Banner do Placar */
 
 .placar{
-  width: 50%;
-  margin: 25%;
-  padding: 5em;
+  padding: 1.5em;
   text-align: center;
   background-color: var(--bg-sec-color);
   border: 2px dashed #000000;

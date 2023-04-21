@@ -1,0 +1,69 @@
+:root {
+  --bg-color: #73a2df;
+  --dark-blue: #154585;
+  --white: #fdfdfd;
+  --red: #e63535;
+  --bg-sec-color: #7daeee;
+  --font: 'Alumni Sans', sans-serif;
+}
+
+body {
+  text-align: center;
+  font-size: 16px;
+  font-family: var(--font);
+  background-color: var(--bg-color);
+  padding: 0;
+  margin: .5em;
+}
+
+.header{
+  margin-top: 25vh;
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.title{
+  border-radius: 2em;
+  color: var(--red);
+  font-family: 'Sedgwick Ave', cursive;
+  font-weight: bold;
+  margin: 0;
+}
+
+.options{
+  background-color: var(--red);
+  width: 80%;
+  height: 50%;
+  margin: 0 auto;
+  padding: 2em .5em;
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  grid-template-rows: repeat(2, 50%);
+  border-radius: 2em;
+  text-align: center;
+}
+
+.play, .practice, .config, .ranking{
+  font-weight: 500;
+  font-size: 1.3em;
+  color: var(--white);
+  text-decoration: none;
+  background-color: var(--dark-blue);
+  border-radius: 1.5em;
+}
+
+.play, .practice{
+  margin-bottom: .25em;
+}
+
+.play, .config{
+  margin-right: .25em;
+}
+
+.config, .ranking{
+  margin-top: .25em;
+}
+
+.practice, .ranking{
+  margin-left: .25em;
+}

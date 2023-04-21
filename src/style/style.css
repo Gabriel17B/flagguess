@@ -1,5 +1,6 @@
 :root {
   --bg-color: #73a2df;
+  --dark-blue: #154585;
   --white: #fdfdfd;
   --red: #e63535;
   --bg-sec-color: #7daeee;
@@ -16,8 +17,7 @@ body{
 }
 
 .header{
-  display: grid;
-  grid-template-columns: repeat(3, 33.3%);
+  display: flex;
   text-align: center;
 }
 
@@ -29,11 +29,12 @@ body{
 }
 
 .title{
+  display: block;
   border-radius: 2em;
   color: var(--red);
   font-family: 'Sedgwick Ave', cursive;
   font-weight: bold;
-  margin: 0;
+  margin: auto;
 }
 
 .question{
@@ -204,6 +205,6 @@ img{
   text-decoration: none;
   color: var(--white);
   padding: .5em .8em;
-  border: 2px solid #154585;
+  border: 2px solid var(--dark-blue);
   border-radius: .5em;
 }

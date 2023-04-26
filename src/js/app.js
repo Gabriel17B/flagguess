@@ -1,5 +1,4 @@
 
-
 let acertos = 0;
 let bandeiras = 0;
 let paused = false;
@@ -41,7 +40,6 @@ $(document).ready(function () {
         }, 1000);
         
     }
-
 
 });
 
@@ -172,8 +170,6 @@ function GameMode(game) {
         if(bandeiras <= 0){
             placarFinal(game)
         }
-
-    }else if(game == "time"){
 
     }
 }

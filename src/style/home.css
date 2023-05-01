@@ -6,7 +6,12 @@
   --bg-sec-color: #7daeee;
   --font: 'Alumni Sans', sans-serif;
 }
-
+/* pequena edicao feita por mim ASS Mateus */
+a:hover{
+  text-decoration: none;
+  color: #c1c1c1;
+}
+/* ****** */
 body {
   text-align: center;
   font-size: 16px;

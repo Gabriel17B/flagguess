@@ -5,8 +5,8 @@ let paused = false;
 let bandeirasT = 0
 
 // puxando sessionStorage
-if(sessionStorage.getItem("continent") == null){
-    sessionStorage.setItem("continent", "todos")
+if (sessionStorage.getItem("continent") == null) {
+    sessionStorage.setItem("continent", "Todos")
 }
 console.log(sessionStorage.getItem("continent"));
 var continentes = sessionStorage.getItem("continent")
@@ -16,11 +16,21 @@ var gamemode = urlClass.searchParams.get("gamemode");
 console.log(gamemode); // Algum nome que está como parâmetro na URL
 
 $(document).ready(function () {
+    if (continentes == "Todos") {
+        $("#continente").remove()
+    } else if (continentes == "Europe") {
+        $("#continente").html("Apenas países da Europa")
+    } else if (continentes == "America") {
+        $("#continente").html("Apenas países das Américas")
+    } else {
+        $("#continente").html("Apenas países da " + continentes)
+    }
     if (gamemode === "questionary") {
         $(".progress").remove()
         $("#spanTempo").remove()
         bandeiras = urlClass.searchParams.get("band");
         bandeirasT = bandeiras;
+
 
         $("#bandeiras").html(bandeiras)
         console.log(bandeiras);
@@ -30,13 +40,13 @@ $(document).ready(function () {
         let tempoFinal = tempo
         setInterval(() => {
             tempo -= 1
-            if(tempo > 0){
-                var maior = (parseFloat(tempo) > parseFloat(tempoFinal)? tempo : tempoFinal);
-                var menor = (parseFloat(tempo) < parseFloat(tempoFinal)? tempo : tempoFinal);
-            
-                var result = (menor/maior)*100;
+            if (tempo > 0) {
+                var maior = (parseFloat(tempo) > parseFloat(tempoFinal) ? tempo : tempoFinal);
+                var menor = (parseFloat(tempo) < parseFloat(tempoFinal) ? tempo : tempoFinal);
+
+                var result = (menor / maior) * 100;
                 result = Math.floor(result)
-                $(".progress-value").css("width", result+"%");
+                $(".progress-value").css("width", result + "%");
                 // console.log("result",result+"%");
             }
             if (tempo == 0) {
@@ -45,7 +55,7 @@ $(document).ready(function () {
             // console.log(tempo);
 
         }, 1000);
-        
+
     }
 
 });
@@ -80,46 +90,46 @@ function createQuestion(question) {
         $(".answers button").removeClass("error");
         let i = 0
         let correct = Math.floor(Math.random() * 4)
-        if(gamemode == "questionary" && continentes != "Todos"){
+        if (gamemode == "questionary" && continentes != "Todos") {
             while (i < 4) {
                 let ramdom = Math.floor(Math.random() * question.length)
                 if (!indices.includes(ramdom)) {
                     // console.log(ramdom);
-    
-                    if(correct == i){
-                        if(question[ramdom]["Continent"] == continentes){
+
+                    if (correct == i) {
+                        if (question[ramdom]["Continent"] == continentes) {
                             console.log("igual", i);
-                             
-                                opcoes.push(question[ramdom]);
-                                indices.push(ramdom)
-                                i++
-                            
-                        
-                        }else{
+
+                            opcoes.push(question[ramdom]);
+                            indices.push(ramdom)
+                            i++
+
+
+                        } else {
                             console.log("nao foi");
                         }
-                    }else {
+                    } else {
                         opcoes.push(question[ramdom]);
                         indices.push(ramdom)
                         i++
                     }
                 }
                 console.log("filtrando por continente");
-            }      
-        }else {
+            }
+        } else {
             let i = 0;
             while (i < 4) {
                 let ramdom = Math.floor(Math.random() * question.length)
                 if (!indices.includes(ramdom)) {
                     // console.log(ramdom);
-    
-                     if(!indicesQjaForam.includes(question[ramdom])){
+
+                    if (!indicesQjaForam.includes(question[ramdom])) {
                         opcoes.push(question[ramdom]);
                         indices.push(ramdom)
                         i++
                     }
                 }
-    
+
             }
         }
 
@@ -150,7 +160,7 @@ function createQuestion(question) {
 }
 
 function placarFinal(gameM) {
-    if(gameM == "questionary"){
+    if (gameM == "questionary") {
         $(".game-area").load("src/views/placar_final.html")
         let parse = bandeirasT
         console.log(parse);
@@ -158,13 +168,13 @@ function placarFinal(gameM) {
         console.log(porcent);
         setTimeout(() => {
             $("#porcentagemAcertos").html(porcent + "%")
-    
+
         }, 50)
-    }else if(gameM == "time"){
+    } else if (gameM == "time") {
         $(".game-area").load("src/views/placar_final.html")
         setTimeout(() => {
             $("#porcentagemAcertos").html(acertos)
-    
+
         }, 50)
     }
 
@@ -176,7 +186,7 @@ function atualizarValues(ac) {
     bandeiras -= 1
     $("#acertos").html(acertos)
     $("#bandeiras").html(bandeiras)
-    
+
     GameMode(gamemode)
 }
 
@@ -203,8 +213,8 @@ function resposta(ind, id) {
 }
 
 function GameMode(game) {
-    if(game == "questionary"){
-        if(bandeiras <= 0){
+    if (game == "questionary") {
+        if (bandeiras <= 0) {
             placarFinal(game)
         }
 

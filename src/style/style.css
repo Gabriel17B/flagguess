@@ -6,7 +6,12 @@
   --bg-sec-color: #7daeee;
   --font: 'Alumni Sans', sans-serif;
 }
-
+/* pequena edicao feita por mim ASS Mateus */
+a:hover{
+  text-decoration: none;
+  color: #c1c1c1;
+}
+/* ****** */
 body{
   text-align: center;
   font-size: 16px;
@@ -47,6 +52,7 @@ body{
 
 .game-area{
   width: 70%;
+  position: relative;
   margin: 0 auto;
   background-color: var(--bg-sec-color);
   border-radius: 2em;
@@ -124,6 +130,16 @@ img{
 }
 .error{
   background-color: red !important;
+}
+#continente{
+  position: absolute;
+  top: -5px;
+  left: -60px;
+  transform: rotate(-40deg);
+  background-color: var(--dark-blue);
+  color: #fff;
+  padding: 3px;
+  border-radius: 3px;
 }
 
 /* #porcentagemAcertos{
@@ -209,4 +225,3 @@ img{
   border-radius: .5em;
 }
 
-a.

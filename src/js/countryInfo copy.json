@@ -1,0 +1,1238 @@
+[
+  {
+    "Pais": "Andorra",
+    "Capital": "Andorra la Vella",
+    "Codigo": "AD",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Emirados Árabes Unidos",
+    "Capital": "Abu Dhabi",
+    "Codigo": "AE",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Afeganistão",
+    "Capital": "Kabul",
+    "Codigo": "AF",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Antígua e Barbuda",
+    "Capital": "St John's",
+    "Codigo": "AG",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Albânia",
+    "Capital": "Tirana",
+    "Codigo": "AL",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Armênia",
+    "Capital": "Yerevan",
+    "Codigo": "AM",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Angola",
+    "Capital": "Luanda",
+    "Codigo": "AO",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Argentina",
+    "Capital": "Buenos Aires",
+    "Codigo": "AR",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Áustria",
+    "Capital": "Vienna",
+    "Codigo": "AT",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Austrália",
+    "Capital": "Canberra",
+    "Codigo": "AU",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Azerbaijão",
+    "Capital": "Baku",
+    "Codigo": "AZ",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Bósnia e Herzegovina",
+    "Capital": "Sarajevo",
+    "Codigo": "BA",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Barbados",
+    "Capital": "Bridgetown",
+    "Codigo": "BB",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Bangladesh",
+    "Capital": "Dhaka",
+    "Codigo": "BD",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Bélgica",
+    "Capital": "Bruxelas",
+    "Codigo": "BE",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Burquina Faso",
+    "Capital": "Ouagadougou",
+    "Codigo": "BF",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Bulgária",
+    "Capital": "Sofia",
+    "Codigo": "BG",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Bahrein",
+    "Capital": "Manama",
+    "Codigo": "BH",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Burundi",
+    "Capital": "Gitega",
+    "Codigo": "BI",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Benin",
+    "Capital": "Porto-Novo",
+    "Codigo": "BJ",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Bermuda",
+    "Capital": "Hamilton",
+    "Codigo": "BM",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Brunei",
+    "Capital": "Bandar Seri Begawan",
+    "Codigo": "BN",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Bolívia",
+    "Capital": "Sucre",
+    "Codigo": "BO",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Brasil",
+    "Capital": "Brasília",
+    "Codigo": "BR",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Bahamas",
+    "Capital": "Nassau",
+    "Codigo": "BS",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Butão",
+    "Capital": "Thimphu",
+    "Codigo": "BT",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Botswana",
+    "Capital": "Gaborone",
+    "Codigo": "BW",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Bielorrússia",
+    "Capital": "Minsk",
+    "Codigo": "BY",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Belize",
+    "Capital": "Belmopan",
+    "Codigo": "BZ",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Canadá",
+    "Capital": "Ottawa",
+    "Codigo": "CA",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Ilhas Cocos (Keeling)",
+    "Capital": "West Island",
+    "Codigo": "CC",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "RD Congo",
+    "Capital": "Kinshasa",
+    "Codigo": "CD",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "República Centro-Africana",
+    "Capital": "Bangui",
+    "Codigo": "CF",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "República do Congo",
+    "Capital": "Brazzaville",
+    "Codigo": "CG",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Suíça",
+    "Capital": "Berna",
+    "Codigo": "CH",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Costa do Marfim",
+    "Capital": "Yamoussoukro",
+    "Codigo": "CI",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Chile",
+    "Capital": "Santiago",
+    "Codigo": "CL",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Camarões",
+    "Capital": "Yaoundé",
+    "Codigo": "CM",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "China",
+    "Capital": "Beijing",
+    "Codigo": "CN",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Colombia",
+    "Capital": "Bogotá",
+    "Codigo": "CO",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Costa Rica",
+    "Capital": "San José",
+    "Codigo": "CR",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Cuba",
+    "Capital": "Havana",
+    "Codigo": "CU",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Cabo Verde",
+    "Capital": "Praia",
+    "Codigo": "CV",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Curaçao",
+    "Capital": "Willemstad",
+    "Codigo": "CW",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Chipre",
+    "Capital": "Nicósia",
+    "Codigo": "CY",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Tchéquia",
+    "Capital": "Praga",
+    "Codigo": "CZ",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Alemanha",
+    "Capital": "Berlin",
+    "Codigo": "DE",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Djibouti",
+    "Capital": "Djibouti",
+    "Codigo": "DJ",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Dinamarca",
+    "Capital": "Copenhagen",
+    "Codigo": "DK",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Dominica",
+    "Capital": "Roseau",
+    "Codigo": "DM",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Reública Dominicana",
+    "Capital": "Santo Domingo",
+    "Codigo": "DO",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Argélia",
+    "Capital": "Algiers",
+    "Codigo": "DZ",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Equador",
+    "Capital": "Quito",
+    "Codigo": "EC",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Estônia",
+    "Capital": "Tallinn",
+    "Codigo": "EE",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Egito",
+    "Capital": "Cairo",
+    "Codigo": "EG",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Eritreia",
+    "Capital": "Asmara",
+    "Codigo": "ER",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Espanha",
+    "Capital": "Madrid",
+    "Codigo": "ES",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Etiópia",
+    "Capital": "Addis Ababa",
+    "Codigo": "ET",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Finlândia",
+    "Capital": "Helsinki",
+    "Codigo": "FI",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Fiji",
+    "Capital": "Suva",
+    "Codigo": "FJ",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Ilhas Malvinas (Falkland)",
+    "Capital": "Stanley",
+    "Codigo": "FK",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Micronésia",
+    "Capital": "Palikir",
+    "Codigo": "FM",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Ilhas Faroe",
+    "Capital": "Tórshavn",
+    "Codigo": "FO",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "França",
+    "Capital": "Paris",
+    "Codigo": "FR",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Gabão",
+    "Capital": "Libreville",
+    "Codigo": "GA",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Reino Unido",
+    "Capital": "London",
+    "Codigo": "GB",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Granada",
+    "Capital": "St. George's",
+    "Codigo": "GD",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Geórgia",
+    "Capital": "Tbilisi",
+    "Codigo": "GE",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Gana",
+    "Capital": "Accra",
+    "Codigo": "GH",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Gâmbia",
+    "Capital": "Banjul",
+    "Codigo": "GM",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Guiné",
+    "Capital": "Conakry",
+    "Codigo": "GN",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Guiné Equatorial",
+    "Capital": "Malabo",
+    "Codigo": "GQ",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Grécia",
+    "Capital": "Atenas",
+    "Codigo": "GR",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Guatemala",
+    "Capital": "Cidade da Guatemala",
+    "Codigo": "GT",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Guiné-Bissau",
+    "Capital": "Bissau",
+    "Codigo": "GW",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Guiana",
+    "Capital": "Georgetown",
+    "Codigo": "GY",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Honduras",
+    "Capital": "Tegucigalpa",
+    "Codigo": "HN",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Croácia",
+    "Capital": "Zagreb",
+    "Codigo": "HR",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Haiti",
+    "Capital": "Port-au-Prince",
+    "Codigo": "HT",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Hungria",
+    "Capital": "Budapest",
+    "Codigo": "HU",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Indonésia",
+    "Capital": "Jakarta",
+    "Codigo": "ID",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Irlanda",
+    "Capital": "Dublin",
+    "Codigo": "IE",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Israel",
+    "Capital": "(Jerusalém)",
+    "Codigo": "IL",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Índia",
+    "Capital": "New Delhi",
+    "Codigo": "IN",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Iraque",
+    "Capital": "Bagdá",
+    "Codigo": "IQ",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Irã",
+    "Capital": "Teerão",
+    "Codigo": "IR",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Islândia",
+    "Capital": "Reykjavik",
+    "Codigo": "IS",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Itália",
+    "Capital": "Roma",
+    "Codigo": "IT",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Jamaica",
+    "Capital": "Kingston",
+    "Codigo": "JM",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Jordânia",
+    "Capital": "Amman",
+    "Codigo": "JO",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Japão",
+    "Capital": "Tóquio",
+    "Codigo": "JP",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Kênia",
+    "Capital": "Nairobi",
+    "Codigo": "KE",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Quirguistão",
+    "Capital": "Bishkek",
+    "Codigo": "KG",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Camboja",
+    "Capital": "Phnom Penh",
+    "Codigo": "KH",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Kiribati",
+    "Capital": "Tarawa",
+    "Codigo": "KI",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Comores",
+    "Capital": "Moroni",
+    "Codigo": "KM",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "São Cristovão e Névis",
+    "Capital": "Basseterre",
+    "Codigo": "KN",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "North Korea",
+    "Capital": "Pyongyang",
+    "Codigo": "KP",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Coréia do Sul",
+    "Capital": "Seoul",
+    "Codigo": "KR",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Kuwait",
+    "Capital": "Kuwait",
+    "Codigo": "KW",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Cazaquistão",
+    "Capital": "Astana",
+    "Codigo": "KZ",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Laos",
+    "Capital": "Vienciana",
+    "Codigo": "LA",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Líbano",
+    "Capital": "Beirut",
+    "Codigo": "LB",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Santa Lúcia",
+    "Capital": "Castries",
+    "Codigo": "LC",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Liechtenstein",
+    "Capital": "Vaduz",
+    "Codigo": "LI",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Sri Lanka",
+    "Capital": "Colombo",
+    "Codigo": "LK",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Libéria",
+    "Capital": "Monróvia",
+    "Codigo": "LR",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Lesoto",
+    "Capital": "Maseru",
+    "Codigo": "LS",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Lituânia",
+    "Capital": "Vilnius",
+    "Codigo": "LT",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Luxemburgo",
+    "Capital": "Luxemburgo",
+    "Codigo": "LU",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Letônia",
+    "Capital": "Riga",
+    "Codigo": "LV",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Líbia",
+    "Capital": "Tripoli",
+    "Codigo": "LY",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Marrocos",
+    "Capital": "Rabat",
+    "Codigo": "MA",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Mônaco",
+    "Capital": "Mônaco",
+    "Codigo": "MC",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Moldávia",
+    "Capital": "Chisinau",
+    "Codigo": "MD",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Montenegro",
+    "Capital": "Podgorica",
+    "Codigo": "ME",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Madagascar",
+    "Capital": "Antananarivo",
+    "Codigo": "MG",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Ilhas Marshall",
+    "Capital": "Majuro",
+    "Codigo": "MH",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Macedônia do Norte",
+    "Capital": "Skopje",
+    "Codigo": "MK",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Mali",
+    "Capital": "Bamako",
+    "Codigo": "ML",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Mianmar",
+    "Capital": "Nay Pyi Taw",
+    "Codigo": "MM",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Mongólia",
+    "Capital": "Ulan Bator",
+    "Codigo": "MN",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Macau (China)",
+    "Capital": "Macau",
+    "Codigo": "MO",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Mauritânia",
+    "Capital": "Nouakchot",
+    "Codigo": "MR",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Malta",
+    "Capital": "Valeta",
+    "Codigo": "MT",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Maurícia",
+    "Capital": "Porto Luís",
+    "Codigo": "MU",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Maldivas",
+    "Capital": "Malé",
+    "Codigo": "MV",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Malawi",
+    "Capital": "Lilongwe",
+    "Codigo": "MW",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "México",
+    "Capital": "Cidade do México",
+    "Codigo": "MX",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Malásia",
+    "Capital": "Kuala Lumpur",
+    "Codigo": "MY",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Moçambique",
+    "Capital": "Maputo",
+    "Codigo": "MZ",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Namíbia",
+    "Capital": "Windhoek",
+    "Codigo": "NA",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Nova Caledônia",
+    "Capital": "Noumea",
+    "Codigo": "NC",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Níger",
+    "Capital": "Niamey",
+    "Codigo": "NE",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Nigéria",
+    "Capital": "Abuja",
+    "Codigo": "NG",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Nicarágua",
+    "Capital": "Manágua",
+    "Codigo": "NI",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Países Baixos (Holanda)",
+    "Capital": "Amsterdã",
+    "Codigo": "NL",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Noruéga",
+    "Capital": "Oslo",
+    "Codigo": "NO",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Nepal",
+    "Capital": "Katmandu",
+    "Codigo": "NP",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Nauru",
+    "Capital": "Yaren",
+    "Codigo": "NR",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Niue",
+    "Capital": "Alofi",
+    "Codigo": "NU",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Nova Zelândia",
+    "Capital": "Wellington",
+    "Codigo": "NZ",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Omã",
+    "Capital": "Muscat",
+    "Codigo": "OM",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Panamá",
+    "Capital": "Cidade do Panamá",
+    "Codigo": "PA",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Peru",
+    "Capital": "Lima",
+    "Codigo": "PE",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Papua-Nova Guiné",
+    "Capital": "Port Moresby",
+    "Codigo": "PG",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Filipinas",
+    "Capital": "Manila",
+    "Codigo": "PH",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Paquistão",
+    "Capital": "Islamabade",
+    "Codigo": "PK",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Polônia",
+    "Capital": "Varsóvia",
+    "Codigo": "PL",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Porto Rico",
+    "Capital": "San Juan",
+    "Codigo": "PR",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Palestina",
+    "Capital": "(Jerusalém)",
+    "Codigo": "PS",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Portugal",
+    "Capital": "Lisboa",
+    "Codigo": "PT",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Palau",
+    "Capital": "Ngerulmud",
+    "Codigo": "PW",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Paraguai",
+    "Capital": "Assunção",
+    "Codigo": "PY",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Qatar",
+    "Capital": "Doha",
+    "Codigo": "QA",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Romênia",
+    "Capital": "Bucareste",
+    "Codigo": "RO",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Sérvia",
+    "Capital": "Belgrado",
+    "Codigo": "RS",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Rússia",
+    "Capital": "Moscou",
+    "Codigo": "RU",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Rwanda",
+    "Capital": "Kigali",
+    "Codigo": "RW",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Arábia Saudita",
+    "Capital": "Riyadh",
+    "Codigo": "SA",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Ilhas Salomão",
+    "Capital": "Honiara",
+    "Codigo": "SB",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Seychelles",
+    "Capital": "Victoria",
+    "Codigo": "SC",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Sudão",
+    "Capital": "Cartum",
+    "Codigo": "SD",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Suécia",
+    "Capital": "Estocolmo",
+    "Codigo": "SE",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Singapura",
+    "Capital": "Singapura",
+    "Codigo": "SG",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Eslovênia",
+    "Capital": "Liubliana",
+    "Codigo": "SI",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Eslováquia",
+    "Capital": "Bratislava",
+    "Codigo": "SK",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Serra Leoa",
+    "Capital": "Freetown",
+    "Codigo": "SL",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "San Marino",
+    "Capital": "San Marino",
+    "Codigo": "SM",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Senegal",
+    "Capital": "Dakar",
+    "Codigo": "SN",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Somália",
+    "Capital": "Mogadishu",
+    "Codigo": "SO",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Suriname",
+    "Capital": "Paramaribo",
+    "Codigo": "SR",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Sudão do Sul",
+    "Capital": "Juba",
+    "Codigo": "SS",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "São Tomé e Príncipe",
+    "Capital": "São Tomé",
+    "Codigo": "ST",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "El Salvador",
+    "Capital": "São Salvador",
+    "Codigo": "SV",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Síria",
+    "Capital": "Damasco",
+    "Codigo": "SY",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Essuatíni",
+    "Capital": "Mbabane",
+    "Codigo": "SZ",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Chad",
+    "Capital": "N'Djamena",
+    "Codigo": "TD",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Togo",
+    "Capital": "Lomé",
+    "Codigo": "TG",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Tailândia",
+    "Capital": "Bangkok",
+    "Codigo": "TH",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Tajiquistão",
+    "Capital": "Duxambé",
+    "Codigo": "TJ",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Timor-Leste",
+    "Capital": "Dili",
+    "Codigo": "TL",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Turcomenistão",
+    "Capital": "Asgabate",
+    "Codigo": "TM",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Tunísia",
+    "Capital": "Tunis",
+    "Codigo": "TN",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Tonga",
+    "Capital": "Nuku'alofa",
+    "Codigo": "TO",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Turquía",
+    "Capital": "Ankara",
+    "Codigo": "TR",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Trinidad e Tobago",
+    "Capital": "Porto da Espanha",
+    "Codigo": "TT",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Tuvalu",
+    "Capital": "Funafuti",
+    "Codigo": "TV",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Taiwan (China)",
+    "Capital": "Taipei",
+    "Codigo": "TW",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Tanzânia",
+    "Capital": "Dodoma",
+    "Codigo": "TZ",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Ucrânia",
+    "Capital": "Kiev",
+    "Codigo": "UA",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Uganda",
+    "Capital": "Kampala",
+    "Codigo": "UG",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "estados Unidos",
+    "Capital": "Washington, DC",
+    "Codigo": "US",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Uruguai",
+    "Capital": "Montevidéu",
+    "Codigo": "UY",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Uzbequistão",
+    "Capital": "Toshkent",
+    "Codigo": "UZ",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Cidade do Vaticano",
+    "Capital": "Cidade do Vaticano",
+    "Codigo": "VA",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "São Vincente e Grenadinas",
+    "Capital": "Kingstown",
+    "Codigo": "VC",
+    "Continent": "North America"
+  },
+  {
+    "Pais": "Venezuela",
+    "Capital": "Caracas",
+    "Codigo": "VE",
+    "Continent": "South America"
+  },
+  {
+    "Pais": "Vietnã",
+    "Capital": "Hanoi",
+    "Codigo": "VN",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "Vanuatu",
+    "Capital": "Port Vila",
+    "Codigo": "VU",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Samoa",
+    "Capital": "Apia",
+    "Codigo": "WS",
+    "Continent": "Oceania"
+  },
+  {
+    "Pais": "Kosovo (Sérvia)",
+    "Capital": "Pristina",
+    "Codigo": "XK",
+    "Continent": "Europe"
+  },
+  {
+    "Pais": "Iêmen",
+    "Capital": "Sanaa",
+    "Codigo": "YE",
+    "Continent": "Asia"
+  },
+  {
+    "Pais": "África do Sul",
+    "Capital": "Pretória",
+    "Codigo": "ZA",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Zâmbia",
+    "Capital": "Lusaka",
+    "Codigo": "ZM",
+    "Continent": "Africa"
+  },
+  {
+    "Pais": "Zimbábue",
+    "Capital": "Harare",
+    "Codigo": "ZW",
+    "Continent": "Africa"
+  }
+]

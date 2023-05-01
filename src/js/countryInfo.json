@@ -21,7 +21,7 @@
     "Pais": "Antígua e Barbuda",
     "Capital": "St John's",
     "Codigo": "AG",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Albânia",
@@ -45,7 +45,7 @@
     "Pais": "Argentina",
     "Capital": "Buenos Aires",
     "Codigo": "AR",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Áustria",
@@ -75,7 +75,7 @@
     "Pais": "Barbados",
     "Capital": "Bridgetown",
     "Codigo": "BB",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Bangladesh",
@@ -123,7 +123,7 @@
     "Pais": "Bermuda",
     "Capital": "Hamilton",
     "Codigo": "BM",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Brunei",
@@ -135,19 +135,19 @@
     "Pais": "Bolívia",
     "Capital": "Sucre",
     "Codigo": "BO",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Brasil",
     "Capital": "Brasília",
     "Codigo": "BR",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Bahamas",
     "Capital": "Nassau",
     "Codigo": "BS",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Butão",
@@ -171,13 +171,13 @@
     "Pais": "Belize",
     "Capital": "Belmopan",
     "Codigo": "BZ",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Canadá",
     "Capital": "Ottawa",
     "Codigo": "CA",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Ilhas Cocos (Keeling)",
@@ -219,7 +219,7 @@
     "Pais": "Chile",
     "Capital": "Santiago",
     "Codigo": "CL",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Camarões",
@@ -237,19 +237,19 @@
     "Pais": "Colombia",
     "Capital": "Bogotá",
     "Codigo": "CO",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Costa Rica",
     "Capital": "San José",
     "Codigo": "CR",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Cuba",
     "Capital": "Havana",
     "Codigo": "CU",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Cabo Verde",
@@ -261,7 +261,7 @@
     "Pais": "Curaçao",
     "Capital": "Willemstad",
     "Codigo": "CW",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Chipre",
@@ -297,13 +297,13 @@
     "Pais": "Dominica",
     "Capital": "Roseau",
     "Codigo": "DM",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Reública Dominicana",
     "Capital": "Santo Domingo",
     "Codigo": "DO",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Argélia",
@@ -315,7 +315,7 @@
     "Pais": "Equador",
     "Capital": "Quito",
     "Codigo": "EC",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Estônia",
@@ -363,7 +363,7 @@
     "Pais": "Ilhas Malvinas (Falkland)",
     "Capital": "Stanley",
     "Codigo": "FK",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Micronésia",
@@ -399,7 +399,7 @@
     "Pais": "Granada",
     "Capital": "St. George's",
     "Codigo": "GD",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Geórgia",
@@ -441,7 +441,7 @@
     "Pais": "Guatemala",
     "Capital": "Cidade da Guatemala",
     "Codigo": "GT",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Guiné-Bissau",
@@ -453,13 +453,13 @@
     "Pais": "Guiana",
     "Capital": "Georgetown",
     "Codigo": "GY",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Honduras",
     "Capital": "Tegucigalpa",
     "Codigo": "HN",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Croácia",
@@ -471,7 +471,7 @@
     "Pais": "Haiti",
     "Capital": "Port-au-Prince",
     "Codigo": "HT",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Hungria",
@@ -531,7 +531,7 @@
     "Pais": "Jamaica",
     "Capital": "Kingston",
     "Codigo": "JM",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Jordânia",
@@ -579,7 +579,7 @@
     "Pais": "São Cristovão e Névis",
     "Capital": "Basseterre",
     "Codigo": "KN",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "North Korea",
@@ -621,7 +621,7 @@
     "Pais": "Santa Lúcia",
     "Capital": "Castries",
     "Codigo": "LC",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Liechtenstein",
@@ -771,7 +771,7 @@
     "Pais": "México",
     "Capital": "Cidade do México",
     "Codigo": "MX",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Malásia",
@@ -813,7 +813,7 @@
     "Pais": "Nicarágua",
     "Capital": "Manágua",
     "Codigo": "NI",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Países Baixos (Holanda)",
@@ -861,13 +861,13 @@
     "Pais": "Panamá",
     "Capital": "Cidade do Panamá",
     "Codigo": "PA",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Peru",
     "Capital": "Lima",
     "Codigo": "PE",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Papua-Nova Guiné",
@@ -897,7 +897,7 @@
     "Pais": "Porto Rico",
     "Capital": "San Juan",
     "Codigo": "PR",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Palestina",
@@ -921,7 +921,7 @@
     "Pais": "Paraguai",
     "Capital": "Assunção",
     "Codigo": "PY",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Qatar",
@@ -1029,7 +1029,7 @@
     "Pais": "Suriname",
     "Capital": "Paramaribo",
     "Codigo": "SR",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Sudão do Sul",
@@ -1047,7 +1047,7 @@
     "Pais": "El Salvador",
     "Capital": "São Salvador",
     "Codigo": "SV",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Síria",
@@ -1119,7 +1119,7 @@
     "Pais": "Trinidad e Tobago",
     "Capital": "Porto da Espanha",
     "Codigo": "TT",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Tuvalu",
@@ -1155,13 +1155,13 @@
     "Pais": "estados Unidos",
     "Capital": "Washington, DC",
     "Codigo": "US",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Uruguai",
     "Capital": "Montevidéu",
     "Codigo": "UY",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Uzbequistão",
@@ -1179,13 +1179,13 @@
     "Pais": "São Vincente e Grenadinas",
     "Capital": "Kingstown",
     "Codigo": "VC",
-    "Continent": "North America"
+    "Continent": "America"
   },
   {
     "Pais": "Venezuela",
     "Capital": "Caracas",
     "Codigo": "VE",
-    "Continent": "South America"
+    "Continent": "America"
   },
   {
     "Pais": "Vietnã",

@@ -1,5 +1,6 @@
 $('#treino').popover()
 $('.ranking').popover()
+sessionStorage.setItem("continent","Todos")
 
 function iniciarTreino(num){
     window.location.href = "jogo.html?gamemode=questionary&band="+ num;

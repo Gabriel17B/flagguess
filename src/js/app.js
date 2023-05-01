@@ -5,11 +5,11 @@ let paused = false;
 let bandeirasT = 0
 
 // puxando sessionStorage
-console.log(sessionStorage.getItem("continent"));
 if(sessionStorage.getItem("continent") == null){
     sessionStorage.setItem("continent", "todos")
 }
-
+console.log(sessionStorage.getItem("continent"));
+var continentes = sessionStorage.getItem("continent")
 var urlAtual = window.location.href;
 var urlClass = new URL(urlAtual);
 var gamemode = urlClass.searchParams.get("gamemode");
@@ -20,7 +20,8 @@ $(document).ready(function () {
         $(".progress").remove()
         $("#spanTempo").remove()
         bandeiras = urlClass.searchParams.get("band");
-        bandeirasT = bandeiras
+        bandeirasT = bandeiras;
+
         $("#bandeiras").html(bandeiras)
         console.log(bandeiras);
     } else if (gamemode === "time") {
@@ -36,12 +37,12 @@ $(document).ready(function () {
                 var result = (menor/maior)*100;
                 result = Math.floor(result)
                 $(".progress-value").css("width", result+"%");
-                console.log("result",result+"%");
+                // console.log("result",result+"%");
             }
             if (tempo == 0) {
                 placarFinal(gamemode)
             }
-            console.log(tempo);
+            // console.log(tempo);
 
         }, 1000);
         
@@ -78,28 +79,58 @@ function createQuestion(question) {
         $(".answers button").removeClass("correct");
         $(".answers button").removeClass("error");
         let i = 0
-        while (i < 4) {
-            let ramdom = Math.floor(Math.random() * question.length)
-            if (!indices.includes(ramdom)) {
-                // console.log(ramdom);
-                opcoes.push(question[ramdom]);
-                if (!indicesQjaForam.includes(question[ramdom])) {
-                    indices.push(ramdom)
-                    i++
+        let correct = Math.floor(Math.random() * 4)
+        if(gamemode == "questionary" && continentes != "Todos"){
+            while (i < 4) {
+                let ramdom = Math.floor(Math.random() * question.length)
+                if (!indices.includes(ramdom)) {
+                    // console.log(ramdom);
+    
+                    if(correct == i){
+                        if(question[ramdom]["Continent"] == continentes){
+                            console.log("igual", i);
+                             
+                                opcoes.push(question[ramdom]);
+                                indices.push(ramdom)
+                                i++
+                            
+                        
+                        }else{
+                            console.log("nao foi");
+                        }
+                    }else {
+                        opcoes.push(question[ramdom]);
+                        indices.push(ramdom)
+                        i++
+                    }
                 }
+                console.log("filtrando por continente");
+            }      
+        }else {
+            let i = 0;
+            while (i < 4) {
+                let ramdom = Math.floor(Math.random() * question.length)
+                if (!indices.includes(ramdom)) {
+                    // console.log(ramdom);
+    
+                     if(!indicesQjaForam.includes(question[ramdom])){
+                        opcoes.push(question[ramdom]);
+                        indices.push(ramdom)
+                        i++
+                    }
+                }
+    
             }
-
         }
 
 
-        let correct = Math.floor(Math.random() * 4)
         // console.log("corrto", correct);
         // console.log(opcoes[correct]);
         // console.log(opcoes);
         const actualQuestion = opcoes[correct]
         indicesQjaForam.push(opcoes[correct])
         console.log(indicesQjaForam);
-        // console.log(indices);
+        console.log(indices, "indices");
         // botoes
         $("#alt-A .question-answer").html(opcoes[0].Pais)
         $("#alt-B .question-answer").html(opcoes[1].Pais)

@@ -6,31 +6,31 @@
     "Continent": "Europe"
   },
   {
-    "Pais": "United Arab Emirates",
+    "Pais": "Emirados Árabes Unidos",
     "Capital": "Abu Dhabi",
     "Codigo": "AE",
     "Continent": "Asia"
   },
   {
-    "Pais": "Afghanistan",
+    "Pais": "Afeganistão",
     "Capital": "Kabul",
     "Codigo": "AF",
     "Continent": "Asia"
   },
   {
-    "Pais": "Antigua and Barbuda",
+    "Pais": "Antígua e Barbuda",
     "Capital": "St John's",
     "Codigo": "AG",
     "Continent": "North America"
   },
   {
-    "Pais": "Albania",
+    "Pais": "Albânia",
     "Capital": "Tirana",
     "Codigo": "AL",
     "Continent": "Europe"
   },
   {
-    "Pais": "Armenia",
+    "Pais": "Armênia",
     "Capital": "Yerevan",
     "Codigo": "AM",
     "Continent": "Asia"
@@ -48,25 +48,25 @@
     "Continent": "South America"
   },
   {
-    "Pais": "Austria",
+    "Pais": "Áustria",
     "Capital": "Vienna",
     "Codigo": "AT",
     "Continent": "Europe"
   },
   {
-    "Pais": "Australia",
+    "Pais": "Austrália",
     "Capital": "Canberra",
     "Codigo": "AU",
     "Continent": "Oceania"
   },
   {
-    "Pais": "Azerbaijan",
+    "Pais": "Azerbaijão",
     "Capital": "Baku",
     "Codigo": "AZ",
     "Continent": "Asia"
   },
   {
-    "Pais": "Bosnia and Herzegovina",
+    "Pais": "Bósnia e Herzegovina",
     "Capital": "Sarajevo",
     "Codigo": "BA",
     "Continent": "Europe"
@@ -84,25 +84,25 @@
     "Continent": "Asia"
   },
   {
-    "Pais": "Belgium",
-    "Capital": "Brussels",
+    "Pais": "Bélgica",
+    "Capital": "Bruxelas",
     "Codigo": "BE",
     "Continent": "Europe"
   },
   {
-    "Pais": "Burkina Faso",
+    "Pais": "Burquina Faso",
     "Capital": "Ouagadougou",
     "Codigo": "BF",
     "Continent": "Africa"
   },
   {
-    "Pais": "Bulgaria",
+    "Pais": "Bulgária",
     "Capital": "Sofia",
     "Codigo": "BG",
     "Continent": "Europe"
   },
   {
-    "Pais": "Bahrain",
+    "Pais": "Bahrein",
     "Capital": "Manama",
     "Codigo": "BH",
     "Continent": "Asia"
@@ -132,13 +132,13 @@
     "Continent": "Asia"
   },
   {
-    "Pais": "Bolivia",
+    "Pais": "Bolívia",
     "Capital": "Sucre",
     "Codigo": "BO",
     "Continent": "South America"
   },
   {
-    "Pais": "Brazil",
+    "Pais": "Brasil",
     "Capital": "Brasília",
     "Codigo": "BR",
     "Continent": "South America"
@@ -150,7 +150,7 @@
     "Continent": "North America"
   },
   {
-    "Pais": "Bhutan",
+    "Pais": "Butão",
     "Capital": "Thimphu",
     "Codigo": "BT",
     "Continent": "Asia"
@@ -162,7 +162,7 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Belarus",
+    "Pais": "Bielorrússia",
     "Capital": "Minsk",
     "Codigo": "BY",
     "Continent": "Europe"
@@ -174,43 +174,43 @@
     "Continent": "North America"
   },
   {
-    "Pais": "Canada",
+    "Pais": "Canadá",
     "Capital": "Ottawa",
     "Codigo": "CA",
     "Continent": "North America"
   },
   {
-    "Pais": "Cocos (Keeling) Islands",
+    "Pais": "Ilhas Cocos (Keeling)",
     "Capital": "West Island",
     "Codigo": "CC",
     "Continent": "Asia"
   },
   {
-    "Pais": "DR Congo",
+    "Pais": "RD Congo",
     "Capital": "Kinshasa",
     "Codigo": "CD",
     "Continent": "Africa"
   },
   {
-    "Pais": "Central African Republic",
+    "Pais": "República Centro-Africana",
     "Capital": "Bangui",
     "Codigo": "CF",
     "Continent": "Africa"
   },
   {
-    "Pais": "Congo Republic",
+    "Pais": "República do Congo",
     "Capital": "Brazzaville",
     "Codigo": "CG",
     "Continent": "Africa"
   },
   {
-    "Pais": "Switzerland",
-    "Capital": "Bern",
+    "Pais": "Suíça",
+    "Capital": "Berna",
     "Codigo": "CH",
     "Continent": "Europe"
   },
   {
-    "Pais": "Ivory Coast",
+    "Pais": "Costa do Marfim",
     "Capital": "Yamoussoukro",
     "Codigo": "CI",
     "Continent": "Africa"
@@ -222,7 +222,7 @@
     "Continent": "South America"
   },
   {
-    "Pais": "Cameroon",
+    "Pais": "Camarões",
     "Capital": "Yaoundé",
     "Codigo": "CM",
     "Continent": "Africa"
@@ -264,19 +264,19 @@
     "Continent": "North America"
   },
   {
-    "Pais": "Cyprus",
-    "Capital": "Nicosia",
+    "Pais": "Chipre",
+    "Capital": "Nicósia",
     "Codigo": "CY",
     "Continent": "Europe"
   },
   {
-    "Pais": "Czechia",
-    "Capital": "Prague",
+    "Pais": "Tchéquia",
+    "Capital": "Praga",
     "Codigo": "CZ",
     "Continent": "Europe"
   },
   {
-    "Pais": "Germany",
+    "Pais": "Alemanha",
     "Capital": "Berlin",
     "Codigo": "DE",
     "Continent": "Europe"
@@ -288,7 +288,7 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Denmark",
+    "Pais": "Dinamarca",
     "Capital": "Copenhagen",
     "Codigo": "DK",
     "Continent": "Europe"
@@ -300,55 +300,55 @@
     "Continent": "North America"
   },
   {
-    "Pais": "Dominican Republic",
+    "Pais": "Reública Dominicana",
     "Capital": "Santo Domingo",
     "Codigo": "DO",
     "Continent": "North America"
   },
   {
-    "Pais": "Algeria",
+    "Pais": "Argélia",
     "Capital": "Algiers",
     "Codigo": "DZ",
     "Continent": "Africa"
   },
   {
-    "Pais": "Ecuador",
+    "Pais": "Equador",
     "Capital": "Quito",
     "Codigo": "EC",
     "Continent": "South America"
   },
   {
-    "Pais": "Estonia",
+    "Pais": "Estônia",
     "Capital": "Tallinn",
     "Codigo": "EE",
     "Continent": "Europe"
   },
   {
-    "Pais": "Egypt",
+    "Pais": "Egito",
     "Capital": "Cairo",
     "Codigo": "EG",
     "Continent": "Africa"
   },
   {
-    "Pais": "Eritrea",
+    "Pais": "Eritreia",
     "Capital": "Asmara",
     "Codigo": "ER",
     "Continent": "Africa"
   },
   {
-    "Pais": "Spain",
+    "Pais": "Espanha",
     "Capital": "Madrid",
     "Codigo": "ES",
     "Continent": "Europe"
   },
   {
-    "Pais": "Ethiopia",
+    "Pais": "Etiópia",
     "Capital": "Addis Ababa",
     "Codigo": "ET",
     "Continent": "Africa"
   },
   {
-    "Pais": "Finland",
+    "Pais": "Finlândia",
     "Capital": "Helsinki",
     "Codigo": "FI",
     "Continent": "Europe"
@@ -360,97 +360,97 @@
     "Continent": "Oceania"
   },
   {
-    "Pais": "Falkland Islands",
+    "Pais": "Ilhas Malvinas (Falkland)",
     "Capital": "Stanley",
     "Codigo": "FK",
     "Continent": "South America"
   },
   {
-    "Pais": "Micronesia",
+    "Pais": "Micronésia",
     "Capital": "Palikir",
     "Codigo": "FM",
     "Continent": "Oceania"
   },
   {
-    "Pais": "Faroe Islands",
+    "Pais": "Ilhas Faroe",
     "Capital": "Tórshavn",
     "Codigo": "FO",
     "Continent": "Europe"
   },
   {
-    "Pais": "France",
+    "Pais": "França",
     "Capital": "Paris",
     "Codigo": "FR",
     "Continent": "Europe"
   },
   {
-    "Pais": "Gabon",
+    "Pais": "Gabão",
     "Capital": "Libreville",
     "Codigo": "GA",
     "Continent": "Africa"
   },
   {
-    "Pais": "United Kingdom",
+    "Pais": "Reino Unido",
     "Capital": "London",
     "Codigo": "GB",
     "Continent": "Europe"
   },
   {
-    "Pais": "Grenada",
+    "Pais": "Granada",
     "Capital": "St. George's",
     "Codigo": "GD",
     "Continent": "North America"
   },
   {
-    "Pais": "Georgia",
+    "Pais": "Geórgia",
     "Capital": "Tbilisi",
     "Codigo": "GE",
     "Continent": "Asia"
   },
   {
-    "Pais": "Ghana",
+    "Pais": "Gana",
     "Capital": "Accra",
     "Codigo": "GH",
     "Continent": "Africa"
   },
   {
-    "Pais": "The Gambia",
+    "Pais": "Gâmbia",
     "Capital": "Banjul",
     "Codigo": "GM",
     "Continent": "Africa"
   },
   {
-    "Pais": "Guinea",
+    "Pais": "Guiné",
     "Capital": "Conakry",
     "Codigo": "GN",
     "Continent": "Africa"
   },
   {
-    "Pais": "Equatorial Guinea",
+    "Pais": "Guiné Equatorial",
     "Capital": "Malabo",
     "Codigo": "GQ",
     "Continent": "Africa"
   },
   {
-    "Pais": "Greece",
-    "Capital": "Athens",
+    "Pais": "Grécia",
+    "Capital": "Atenas",
     "Codigo": "GR",
     "Continent": "Europe"
   },
   {
     "Pais": "Guatemala",
-    "Capital": "Guatemala City",
+    "Capital": "Cidade da Guatemala",
     "Codigo": "GT",
     "Continent": "North America"
   },
   {
-    "Pais": "Guinea-Bissau",
+    "Pais": "Guiné-Bissau",
     "Capital": "Bissau",
     "Codigo": "GW",
     "Continent": "Africa"
   },
   {
-    "Pais": "Guyana",
+    "Pais": "Guiana",
     "Capital": "Georgetown",
     "Codigo": "GY",
     "Continent": "South America"
@@ -462,7 +462,7 @@
     "Continent": "North America"
   },
   {
-    "Pais": "Croatia",
+    "Pais": "Croácia",
     "Capital": "Zagreb",
     "Codigo": "HR",
     "Continent": "Europe"
@@ -474,56 +474,56 @@
     "Continent": "North America"
   },
   {
-    "Pais": "Hungary",
+    "Pais": "Hungria",
     "Capital": "Budapest",
     "Codigo": "HU",
     "Continent": "Europe"
   },
   {
-    "Pais": "Indonesia",
+    "Pais": "Indonésia",
     "Capital": "Jakarta",
     "Codigo": "ID",
     "Continent": "Asia"
   },
   {
-    "Pais": "Ireland",
+    "Pais": "Irlanda",
     "Capital": "Dublin",
     "Codigo": "IE",
     "Continent": "Europe"
   },
   {
     "Pais": "Israel",
-    "Capital": "",
+    "Capital": "(Jerusalém)",
     "Codigo": "IL",
     "Continent": "Asia"
   },
   {
-    "Pais": "India",
+    "Pais": "Índia",
     "Capital": "New Delhi",
     "Codigo": "IN",
     "Continent": "Asia"
   },
   {
-    "Pais": "Iraq",
-    "Capital": "Baghdad",
+    "Pais": "Iraque",
+    "Capital": "Bagdá",
     "Codigo": "IQ",
     "Continent": "Asia"
   },
   {
-    "Pais": "Iran",
-    "Capital": "Tehran",
+    "Pais": "Irã",
+    "Capital": "Teerão",
     "Codigo": "IR",
     "Continent": "Asia"
   },
   {
-    "Pais": "Iceland",
+    "Pais": "Islândia",
     "Capital": "Reykjavik",
     "Codigo": "IS",
     "Continent": "Europe"
   },
   {
-    "Pais": "Italy",
-    "Capital": "Rome",
+    "Pais": "Itália",
+    "Capital": "Roma",
     "Codigo": "IT",
     "Continent": "Europe"
   },
@@ -534,31 +534,31 @@
     "Continent": "North America"
   },
   {
-    "Pais": "Jordan",
+    "Pais": "Jordânia",
     "Capital": "Amman",
     "Codigo": "JO",
     "Continent": "Asia"
   },
   {
-    "Pais": "Japan",
-    "Capital": "Tokyo",
+    "Pais": "Japão",
+    "Capital": "Tóquio",
     "Codigo": "JP",
     "Continent": "Asia"
   },
   {
-    "Pais": "Kenya",
+    "Pais": "Kênia",
     "Capital": "Nairobi",
     "Codigo": "KE",
     "Continent": "Africa"
   },
   {
-    "Pais": "Kyrgyzstan",
+    "Pais": "Quirguistão",
     "Capital": "Bishkek",
     "Codigo": "KG",
     "Continent": "Asia"
   },
   {
-    "Pais": "Cambodia",
+    "Pais": "Camboja",
     "Capital": "Phnom Penh",
     "Codigo": "KH",
     "Continent": "Asia"
@@ -570,13 +570,13 @@
     "Continent": "Oceania"
   },
   {
-    "Pais": "Comoros",
+    "Pais": "Comores",
     "Capital": "Moroni",
     "Codigo": "KM",
     "Continent": "Africa"
   },
   {
-    "Pais": "St Kitts and Nevis",
+    "Pais": "São Cristovão e Névis",
     "Capital": "Basseterre",
     "Codigo": "KN",
     "Continent": "North America"
@@ -588,37 +588,37 @@
     "Continent": "Asia"
   },
   {
-    "Pais": "South Korea",
+    "Pais": "Coréia do Sul",
     "Capital": "Seoul",
     "Codigo": "KR",
     "Continent": "Asia"
   },
   {
     "Pais": "Kuwait",
-    "Capital": "Kuwait City",
+    "Capital": "Kuwait",
     "Codigo": "KW",
     "Continent": "Asia"
   },
   {
-    "Pais": "Kazakhstan",
-    "Capital": "Nur-Sultan",
+    "Pais": "Cazaquistão",
+    "Capital": "Astana",
     "Codigo": "KZ",
     "Continent": "Asia"
   },
   {
     "Pais": "Laos",
-    "Capital": "Vientiane",
+    "Capital": "Vienciana",
     "Codigo": "LA",
     "Continent": "Asia"
   },
   {
-    "Pais": "Lebanon",
+    "Pais": "Líbano",
     "Capital": "Beirut",
     "Codigo": "LB",
     "Continent": "Asia"
   },
   {
-    "Pais": "Saint Lucia",
+    "Pais": "Santa Lúcia",
     "Capital": "Castries",
     "Codigo": "LC",
     "Continent": "North America"
@@ -636,56 +636,56 @@
     "Continent": "Asia"
   },
   {
-    "Pais": "Liberia",
-    "Capital": "Monrovia",
+    "Pais": "Libéria",
+    "Capital": "Monróvia",
     "Codigo": "LR",
     "Continent": "Africa"
   },
   {
-    "Pais": "Lesotho",
+    "Pais": "Lesoto",
     "Capital": "Maseru",
     "Codigo": "LS",
     "Continent": "Africa"
   },
   {
-    "Pais": "Lithuania",
+    "Pais": "Lituânia",
     "Capital": "Vilnius",
     "Codigo": "LT",
     "Continent": "Europe"
   },
   {
-    "Pais": "Luxembourg",
-    "Capital": "Luxembourg",
+    "Pais": "Luxemburgo",
+    "Capital": "Luxemburgo",
     "Codigo": "LU",
     "Continent": "Europe"
   },
   {
-    "Pais": "Latvia",
+    "Pais": "Letônia",
     "Capital": "Riga",
     "Codigo": "LV",
     "Continent": "Europe"
   },
   {
-    "Pais": "Libya",
+    "Pais": "Líbia",
     "Capital": "Tripoli",
     "Codigo": "LY",
     "Continent": "Africa"
   },
   {
-    "Pais": "Morocco",
+    "Pais": "Marrocos",
     "Capital": "Rabat",
     "Codigo": "MA",
     "Continent": "Africa"
   },
   {
-    "Pais": "Monaco",
-    "Capital": "Monaco",
+    "Pais": "Mônaco",
+    "Capital": "Mônaco",
     "Codigo": "MC",
     "Continent": "Europe"
   },
   {
-    "Pais": "Moldova",
-    "Capital": "Chișinău",
+    "Pais": "Moldávia",
+    "Capital": "Chisinau",
     "Codigo": "MD",
     "Continent": "Europe"
   },
@@ -702,13 +702,13 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Marshall Islands",
+    "Pais": "Ilhas Marshall",
     "Capital": "Majuro",
     "Codigo": "MH",
     "Continent": "Oceania"
   },
   {
-    "Pais": "North Macedonia",
+    "Pais": "Macedônia do Norte",
     "Capital": "Skopje",
     "Codigo": "MK",
     "Continent": "Europe"
@@ -720,43 +720,43 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Myanmar",
+    "Pais": "Mianmar",
     "Capital": "Nay Pyi Taw",
     "Codigo": "MM",
     "Continent": "Asia"
   },
   {
-    "Pais": "Mongolia",
-    "Capital": "Ulaanbaatar",
+    "Pais": "Mongólia",
+    "Capital": "Ulan Bator",
     "Codigo": "MN",
     "Continent": "Asia"
   },
   {
-    "Pais": "Macao",
-    "Capital": "Macao",
+    "Pais": "Macau (China)",
+    "Capital": "Macau",
     "Codigo": "MO",
     "Continent": "Asia"
   },
   {
-    "Pais": "Mauritania",
-    "Capital": "Nouakchott",
+    "Pais": "Mauritânia",
+    "Capital": "Nouakchot",
     "Codigo": "MR",
     "Continent": "Africa"
   },
   {
     "Pais": "Malta",
-    "Capital": "Valletta",
+    "Capital": "Valeta",
     "Codigo": "MT",
     "Continent": "Europe"
   },
   {
-    "Pais": "Mauritius",
-    "Capital": "Port Louis",
+    "Pais": "Maurícia",
+    "Capital": "Porto Luís",
     "Codigo": "MU",
     "Continent": "Africa"
   },
   {
-    "Pais": "Maldives",
+    "Pais": "Maldivas",
     "Capital": "Malé",
     "Codigo": "MV",
     "Continent": "Asia"
@@ -768,74 +768,74 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Mexico",
-    "Capital": "Mexico City",
+    "Pais": "México",
+    "Capital": "Cidade do México",
     "Codigo": "MX",
     "Continent": "North America"
   },
   {
-    "Pais": "Malaysia",
+    "Pais": "Malásia",
     "Capital": "Kuala Lumpur",
     "Codigo": "MY",
     "Continent": "Asia"
   },
   {
-    "Pais": "Mozambique",
+    "Pais": "Moçambique",
     "Capital": "Maputo",
     "Codigo": "MZ",
     "Continent": "Africa"
   },
   {
-    "Pais": "Namibia",
+    "Pais": "Namíbia",
     "Capital": "Windhoek",
     "Codigo": "NA",
     "Continent": "Africa"
   },
   {
-    "Pais": "New Caledonia",
+    "Pais": "Nova Caledônia",
     "Capital": "Noumea",
     "Codigo": "NC",
     "Continent": "Oceania"
   },
   {
-    "Pais": "Niger",
+    "Pais": "Níger",
     "Capital": "Niamey",
     "Codigo": "NE",
     "Continent": "Africa"
   },
   {
-    "Pais": "Nigeria",
+    "Pais": "Nigéria",
     "Capital": "Abuja",
     "Codigo": "NG",
     "Continent": "Africa"
   },
   {
-    "Pais": "Nicaragua",
-    "Capital": "Managua",
+    "Pais": "Nicarágua",
+    "Capital": "Manágua",
     "Codigo": "NI",
     "Continent": "North America"
   },
   {
-    "Pais": "Netherlands",
-    "Capital": "Amsterdam",
+    "Pais": "Países Baixos (Holanda)",
+    "Capital": "Amsterdã",
     "Codigo": "NL",
     "Continent": "Europe"
   },
   {
-    "Pais": "Norway",
+    "Pais": "Noruéga",
     "Capital": "Oslo",
     "Codigo": "NO",
     "Continent": "Europe"
   },
   {
     "Pais": "Nepal",
-    "Capital": "Kathmandu",
+    "Capital": "Katmandu",
     "Codigo": "NP",
     "Continent": "Asia"
   },
   {
     "Pais": "Nauru",
-    "Capital": "Yaren District",
+    "Capital": "Yaren",
     "Codigo": "NR",
     "Continent": "Oceania"
   },
@@ -846,20 +846,20 @@
     "Continent": "Oceania"
   },
   {
-    "Pais": "New Zealand",
+    "Pais": "Nova Zelândia",
     "Capital": "Wellington",
     "Codigo": "NZ",
     "Continent": "Oceania"
   },
   {
-    "Pais": "Oman",
+    "Pais": "Omã",
     "Capital": "Muscat",
     "Codigo": "OM",
     "Continent": "Asia"
   },
   {
-    "Pais": "Panama",
-    "Capital": "Panama City",
+    "Pais": "Panamá",
+    "Capital": "Cidade do Panamá",
     "Codigo": "PA",
     "Continent": "North America"
   },
@@ -870,44 +870,44 @@
     "Continent": "South America"
   },
   {
-    "Pais": "Papua New Guinea",
+    "Pais": "Papua-Nova Guiné",
     "Capital": "Port Moresby",
     "Codigo": "PG",
     "Continent": "Oceania"
   },
   {
-    "Pais": "Philippines",
+    "Pais": "Filipinas",
     "Capital": "Manila",
     "Codigo": "PH",
     "Continent": "Asia"
   },
   {
-    "Pais": "Pakistan",
-    "Capital": "Islamabad",
+    "Pais": "Paquistão",
+    "Capital": "Islamabade",
     "Codigo": "PK",
     "Continent": "Asia"
   },
   {
-    "Pais": "Poland",
-    "Capital": "Warsaw",
+    "Pais": "Polônia",
+    "Capital": "Varsóvia",
     "Codigo": "PL",
     "Continent": "Europe"
   },
   {
-    "Pais": "Puerto Rico",
+    "Pais": "Porto Rico",
     "Capital": "San Juan",
     "Codigo": "PR",
     "Continent": "North America"
   },
   {
-    "Pais": "Palestine",
-    "Capital": "",
+    "Pais": "Palestina",
+    "Capital": "(Jerusalém)",
     "Codigo": "PS",
     "Continent": "Asia"
   },
   {
     "Pais": "Portugal",
-    "Capital": "Lisbon",
+    "Capital": "Lisboa",
     "Codigo": "PT",
     "Continent": "Europe"
   },
@@ -918,8 +918,8 @@
     "Continent": "Oceania"
   },
   {
-    "Pais": "Paraguay",
-    "Capital": "Asunción",
+    "Pais": "Paraguai",
+    "Capital": "Assunção",
     "Codigo": "PY",
     "Continent": "South America"
   },
@@ -930,20 +930,20 @@
     "Continent": "Asia"
   },
   {
-    "Pais": "Romania",
-    "Capital": "Bucharest",
+    "Pais": "Romênia",
+    "Capital": "Bucareste",
     "Codigo": "RO",
     "Continent": "Europe"
   },
   {
-    "Pais": "Serbia",
-    "Capital": "Belgrade",
+    "Pais": "Sérvia",
+    "Capital": "Belgrado",
     "Codigo": "RS",
     "Continent": "Europe"
   },
   {
-    "Pais": "Russia",
-    "Capital": "Moscow",
+    "Pais": "Rússia",
+    "Capital": "Moscou",
     "Codigo": "RU",
     "Continent": "Europe"
   },
@@ -954,13 +954,13 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Saudi Arabia",
+    "Pais": "Arábia Saudita",
     "Capital": "Riyadh",
     "Codigo": "SA",
     "Continent": "Asia"
   },
   {
-    "Pais": "Solomon Islands",
+    "Pais": "Ilhas Salomão",
     "Capital": "Honiara",
     "Codigo": "SB",
     "Continent": "Oceania"
@@ -972,37 +972,37 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Sudan",
-    "Capital": "Khartoum",
+    "Pais": "Sudão",
+    "Capital": "Cartum",
     "Codigo": "SD",
     "Continent": "Africa"
   },
   {
-    "Pais": "Sweden",
-    "Capital": "Stockholm",
+    "Pais": "Suécia",
+    "Capital": "Estocolmo",
     "Codigo": "SE",
     "Continent": "Europe"
   },
   {
-    "Pais": "Singapore",
-    "Capital": "Singapore",
+    "Pais": "Singapura",
+    "Capital": "Singapura",
     "Codigo": "SG",
     "Continent": "Asia"
   },
   {
-    "Pais": "Slovenia",
-    "Capital": "Ljubljana",
+    "Pais": "Eslovênia",
+    "Capital": "Liubliana",
     "Codigo": "SI",
     "Continent": "Europe"
   },
   {
-    "Pais": "Slovakia",
+    "Pais": "Eslováquia",
     "Capital": "Bratislava",
     "Codigo": "SK",
     "Continent": "Europe"
   },
   {
-    "Pais": "Sierra Leone",
+    "Pais": "Serra Leoa",
     "Capital": "Freetown",
     "Codigo": "SL",
     "Continent": "Africa"
@@ -1020,7 +1020,7 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Somalia",
+    "Pais": "Somália",
     "Capital": "Mogadishu",
     "Codigo": "SO",
     "Continent": "Africa"
@@ -1032,31 +1032,31 @@
     "Continent": "South America"
   },
   {
-    "Pais": "South Sudan",
+    "Pais": "Sudão do Sul",
     "Capital": "Juba",
     "Codigo": "SS",
     "Continent": "Africa"
   },
   {
-    "Pais": "São Tomé and Príncipe",
+    "Pais": "São Tomé e Príncipe",
     "Capital": "São Tomé",
     "Codigo": "ST",
     "Continent": "Africa"
   },
   {
     "Pais": "El Salvador",
-    "Capital": "San Salvador",
+    "Capital": "São Salvador",
     "Codigo": "SV",
     "Continent": "North America"
   },
   {
-    "Pais": "Syria",
-    "Capital": "Damascus",
+    "Pais": "Síria",
+    "Capital": "Damasco",
     "Codigo": "SY",
     "Continent": "Asia"
   },
   {
-    "Pais": "Eswatini",
+    "Pais": "Essuatíni",
     "Capital": "Mbabane",
     "Codigo": "SZ",
     "Continent": "Africa"
@@ -1074,14 +1074,14 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "Thailand",
+    "Pais": "Tailândia",
     "Capital": "Bangkok",
     "Codigo": "TH",
     "Continent": "Asia"
   },
   {
-    "Pais": "Tajikistan",
-    "Capital": "Dushanbe",
+    "Pais": "Tajiquistão",
+    "Capital": "Duxambé",
     "Codigo": "TJ",
     "Continent": "Asia"
   },
@@ -1092,13 +1092,13 @@
     "Continent": "Oceania"
   },
   {
-    "Pais": "Turkmenistan",
-    "Capital": "Ashgabat",
+    "Pais": "Turcomenistão",
+    "Capital": "Asgabate",
     "Codigo": "TM",
     "Continent": "Asia"
   },
   {
-    "Pais": "Tunisia",
+    "Pais": "Tunísia",
     "Capital": "Tunis",
     "Codigo": "TN",
     "Continent": "Africa"
@@ -1110,14 +1110,14 @@
     "Continent": "Oceania"
   },
   {
-    "Pais": "Turkey",
+    "Pais": "Turquía",
     "Capital": "Ankara",
     "Codigo": "TR",
     "Continent": "Asia"
   },
   {
-    "Pais": "Trinidad and Tobago",
-    "Capital": "Port of Spain",
+    "Pais": "Trinidad e Tobago",
+    "Capital": "Porto da Espanha",
     "Codigo": "TT",
     "Continent": "North America"
   },
@@ -1128,20 +1128,20 @@
     "Continent": "Oceania"
   },
   {
-    "Pais": "Taiwan",
+    "Pais": "Taiwan (China)",
     "Capital": "Taipei",
     "Codigo": "TW",
     "Continent": "Asia"
   },
   {
-    "Pais": "Tanzania",
+    "Pais": "Tanzânia",
     "Capital": "Dodoma",
     "Codigo": "TZ",
     "Continent": "Africa"
   },
   {
-    "Pais": "Ukraine",
-    "Capital": "Kyiv",
+    "Pais": "Ucrânia",
+    "Capital": "Kiev",
     "Codigo": "UA",
     "Continent": "Europe"
   },
@@ -1152,31 +1152,31 @@
     "Continent": "Africa"
   },
   {
-    "Pais": "United States",
-    "Capital": "Washington",
+    "Pais": "estados Unidos",
+    "Capital": "Washington, DC",
     "Codigo": "US",
     "Continent": "North America"
   },
   {
-    "Pais": "Uruguay",
-    "Capital": "Montevideo",
+    "Pais": "Uruguai",
+    "Capital": "Montevidéu",
     "Codigo": "UY",
     "Continent": "South America"
   },
   {
-    "Pais": "Uzbekistan",
-    "Capital": "Tashkent",
+    "Pais": "Uzbequistão",
+    "Capital": "Toshkent",
     "Codigo": "UZ",
     "Continent": "Asia"
   },
   {
-    "Pais": "Vatican City",
-    "Capital": "Vatican City",
+    "Pais": "Cidade do Vaticano",
+    "Capital": "Cidade do Vaticano",
     "Codigo": "VA",
     "Continent": "Europe"
   },
   {
-    "Pais": "St Vincent and Grenadines",
+    "Pais": "São Vincente e Grenadinas",
     "Capital": "Kingstown",
     "Codigo": "VC",
     "Continent": "North America"
@@ -1188,7 +1188,7 @@
     "Continent": "South America"
   },
   {
-    "Pais": "Vietnam",
+    "Pais": "Vietnã",
     "Capital": "Hanoi",
     "Codigo": "VN",
     "Continent": "Asia"
@@ -1206,13 +1206,13 @@
     "Continent": "Oceania"
   },
   {
-    "Pais": "Kosovo",
+    "Pais": "Kosovo (Sérvia)",
     "Capital": "Pristina",
     "Codigo": "XK",
     "Continent": "Europe"
   },
   {
-    "Pais": "Yemen",
+    "Pais": "Iêmen",
     "Capital": "Sanaa",
     "Codigo": "YE",
     "Continent": "Asia"

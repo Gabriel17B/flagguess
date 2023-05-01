@@ -4,6 +4,12 @@ let bandeiras = 0;
 let paused = false;
 let bandeirasT = 0
 
+// puxando sessionStorage
+console.log(sessionStorage.getItem("continent"));
+if(sessionStorage.getItem("continent") == null){
+    sessionStorage.setItem("continent", "todos")
+}
+
 var urlAtual = window.location.href;
 var urlClass = new URL(urlAtual);
 var gamemode = urlClass.searchParams.get("gamemode");

@@ -3,10 +3,11 @@
   --dark-blue: #154585;
   --white: #fdfdfd;
   --red: #e63535;
+  --light-red: #f76666;
   --bg-sec-color: #7daeee;
   --font: 'Alumni Sans', sans-serif;
 }
-/* pequena edicao feita por mim ASS Mateus */
+/* pequena edicao feita por mim ASS Mateus #73a2df */ 
 a:hover{
   text-decoration: none;
   color: #c1c1c1;
@@ -55,6 +56,7 @@ body {
   text-decoration: none;
   background-color: var(--dark-blue);
   border-radius: 1.5em;
+  border: none;
 }
 
 .play, .practice{
@@ -67,8 +69,64 @@ body {
 
 .config, .ranking{
   margin-top: .25em;
+  padding: 0px;
 }
 
 .practice, .ranking{
   margin-left: .25em;
+}
+
+/* Popover */
+.popover {
+  background-color: var(--light-red);
+  border: var(--dark-blue) 3px solid;
+  border-radius: 10px;
+}
+
+.popover-body {
+  text-align: center;
+  font-family: var(--font);
+  height: 30%;
+}
+
+.popover-body h4, h5 {
+  font-size: 1.5rem;
+  color: var(--white);
+}
+
+.btn {
+  border-radius: 15px;
+  background-color: var(--bg-color);
+  border: #154585 2px solid;
+  font-size: 1.3rem;
+}
+
+select {
+  background-color: var(--bg-sec-color);
+  width: 50%;
+  border: #154585 2px solid;
+  font-size: 1.3rem;
+  border-radius: 5px;
+}
+
+/* Tabela Ranking */
+
+.tabela {
+  background-color: var(--bg-sec-color);
+  border: #154585 5px inset;
+  margin: 0 25%;
+  width: 50%;
+  font: var(--font);
+}
+
+.titulos th {
+  background-color: #acc9ee;
+  border-bottom: #154585 3px solid;
+  border-right: #154585 3px solid;
+}
+
+.tabela td {
+  color: var(--white);
+  border-bottom: #154585 3px dashed;
+  border-right: #154585 3px dashed;
 }

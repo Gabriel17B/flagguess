@@ -1,4 +1,6 @@
-$('#treino').popover()
+$('#treino').popover({
+    trigger: 'focus'
+})
 $('.ranking').popover()
 sessionStorage.setItem("continent","Todos")
 
